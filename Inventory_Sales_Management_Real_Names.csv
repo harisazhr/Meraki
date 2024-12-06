@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Subcategory,Collection,Stock_Quantity,Price,Cost,Sales_Quantity,Sales_Date
+P0066,Batik Maxi Dress,Batik,Luxe Gold,39,117.26,210.21,6,1/1/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Luxe Gold,69,423.42,282.4,7,1/1/2023
+P0081,Casual Baju Kurung,Baju Melayu,Luxe Gold,40,325.12,298.43,5,2/1/2023
+P0056,Baju Kurung Elegance,Kurta,Glam Silver,65,462.52,132.18,8,3/1/2023
+P0006,Baju Kurung Pahang,Baju Melayu,Glam Silver,87,367.81,139.3,4,3/1/2023
+P0076,Baju Melayu Comfort,Kurta,Luxe Gold,29,282.67,140.28,18,3/1/2023
+P0068,Baju Melayu Luxe Silver,Batik,Casual Wear,72,102.69,173.48,14,3/1/2023
+P0063,Modern Baju Kurung,Baju Melayu,Luxe Gold,59,120.63,154.65,4,3/1/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Glam Silver,83,120.68,288.32,17,4/1/2023
+P0091,Kurta with Batik Print,Batik,Luxe Gold,56,268.96,142.99,20,4/1/2023
+P0099,,Kurta,Glam Silver,33,235.29,244.4,20,4/1/2023
+P0020,Batik Kaftan,Kurta,Luxe Gold,46,301.41,128.1,3,5/1/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Luxe Gold,15,372.51,158.88,15,5/1/2023
+P0040,Kurta Cotton,Batik,Casual Wear,15,345.68,231.77,5,5/1/2023
+P0016,Modern Batik Dress,Baju Melayu,Casual Wear,81,379.26,232.82,17,5/1/2023
+P0068,Baju Melayu Luxe Silver,Batik,Casual Wear,19,324.53,152.23,2,6/1/2023
+P0039,Batik Scarf,Batik,Luxe Gold,77,387.57,33.37,16,6/1/2023
+P0049,Jubah Plain,Baju Melayu,Luxe Gold,56,315.88,142.24,1,6/1/2023
+P0087,Kurta Urban,Batik,Glam Silver,91,186.73,281.4,2,6/1/2023
+P0034,Baju Kurung Satin,Batik,Casual Wear,21,486.5,97,6,7/1/2023
+P0015,Baju Melayu Teluk Belanga,Kurta,Glam Silver,84,455.18,170.37,14,7/1/2023
+P0025,Baju Kurung Traditional,Kurta,Luxe Gold,51,260.44,287.28,13,8/1/2023
+P0070,Batik Tunic Dress,Baju Melayu,Luxe Gold,79,287.63,122.34,3,8/1/2023
+P0073,Elegant Batik Skirt,Kurta,Luxe Gold,75,468.75,223.63,20,8/1/2023
+P0014,Jubah Abaya,Kurta,Glam Silver,52,160.95,220.22,5,8/1/2023
+P0051,Kurta Stylish,Kurta,Glam Silver,60,87.47,279.11,20,8/1/2023
+P0055,Casual Batik Shirt,Batik,Luxe Gold,87,455.27,133.39,3,9/1/2023
+P0052,Batik A-Line Dress,Kurta,Glam Silver,57,212.77,39.57,6,10/1/2023
+P0085,Batik Modern Wrap,Kurta,Luxe Gold,55,266.04,156.83,3,10/1/2023
+P0070,Batik Tunic Dress,Kurta,Casual Wear,27,139.81,39.15,14,10/1/2023
+P0048,Blouse with Batik Print,Batik,Glam Silver,78,379.72,272.66,10,10/1/2023
+P0035,Classic Kurta,Kurta,Casual Wear,31,435.84,191.38,9,10/1/2023
+P0093,Jubah Glam,Baju Melayu,Glam Silver,91,210.55,136.93,19,10/1/2023
+P0035,Classic Kurta,Baju Melayu,Casual Wear,82,397.43,158.06,2,11/1/2023
+P0051,Kurta Stylish,Batik,Luxe Gold,92,388.47,99.65,14,11/1/2023
+P0033,Batik Tunic,Baju Melayu,Luxe Gold,14,156.99,90.56,7,12/1/2023
+P0073,Elegant Batik Skirt,Kurta,Glam Silver,10,352.71,125.08,15,12/1/2023
+P0021,Baju Melayu Luxe,Batik,Luxe Gold,49,405.61,61.65,4,13/1/2023
+P0065,Jubah Festive,Kurta,Casual Wear,92,127.66,147.38,14,13/1/2023
+P0024,Jubah Simple,Kurta,Glam Silver,80,239.43,161.02,2,14/1/2023
+P0029,Kurta for Boys,Batik,Glam Silver,50,124.08,189.67,12,14/1/2023
+P0051,Kurta Stylish,Kurta,Glam Silver,53,411.16,92.17,1,14/1/2023
+P0053,Baju Melayu Classic Fit,Batik,Casual Wear,81,302.99,49.9,20,15/1/2023
+P0095,Kurta Everyday,Kurta,Luxe Gold,68,449.04,188.78,15,15/1/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Glam Silver,55,298.8,199.59,13,15/1/2023
+P0034,Baju Kurung Satin,Batik,Glam Silver,55,318.74,85.45,20,16/1/2023
+P0059,Baju Melayu Moden,Batik,Casual Wear,24,421.06,150.06,19,16/1/2023
+P0082,Jubah Elegant,Kurta,Luxe Gold,78,166.99,135.94,7,16/1/2023
+P0096,Batik Kaftan Luxe,Kurta,Glam Silver,87,349.6,211.01,2,18/1/2023
+P0036,Batik Maxi Skirt,Kurta,Casual Wear,77,285.11,132.28,16,18/1/2023
+P0045,Kurta Linen,Batik,Casual Wear,68,352.28,213.16,5,18/1/2023
+P0013,Baju Kurung Lace,Batik,Luxe Gold,85,98.09,227.67,15,19/1/2023
+P0061,Batik Flare Skirt,Baju Melayu,Luxe Gold,31,172.67,79.2,13,19/1/2023
+P0009,Batik Long Skirt,Kurta,Glam Silver,34,404.43,117.32,3,19/1/2023
+P0014,Jubah Abaya,Baju Melayu,Casual Wear,69,379.68,37.93,17,19/1/2023
+P0040,Kurta Cotton,Kurta,Casual Wear,43,168.87,180.74,19,19/1/2023
+P0074,Modern Batik Shirt,Batik,Casual Wear,57,252.4,93.49,17,19/1/2023
+P0065,Jubah Festive,Batik,Casual Wear,67,84.77,234.65,8,20/1/2023
+P0067,Kurta Festive,Baju Melayu,Luxe Gold,69,313.66,95.92,10,20/1/2023
+P0028,Baju Melayu Kids,Kurta,Glam Silver,62,149.39,257.66,1,22/1/2023
+P0009,Batik Long Skirt,Batik,Luxe Gold,36,52.96,297.04,19,23/1/2023
+P0085,Batik Modern Wrap,Kurta,Casual Wear,99,229.89,254.95,1,23/1/2023
+P0019,Blouse with Ruffles,Kurta,Casual Wear,81,311.79,76.25,20,23/1/2023
+P0062,Kurta Embossed,Kurta,Glam Silver,96,161.32,142.04,15,23/1/2023
+P0022,Kurta Ombre,Batik,Luxe Gold,57,105.16,212.91,19,23/1/2023
+P0084,Kurta Premium,Baju Melayu,Glam Silver,89,448.46,260.88,12,23/1/2023
+P0031,Blouse for Sisters,Batik,Casual Wear,25,373.08,116.17,12,24/1/2023
+P0055,Casual Batik Shirt,Baju Melayu,Glam Silver,18,407.62,191.39,9,24/1/2023
+P0098,Kurta Premium Cotton,Baju Melayu,Luxe Gold,27,372.95,211.09,4,24/1/2023
+P0099,,Kurta,Glam Silver,17,319.97,45.28,12,25/1/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Glam Silver,13,85.5,227.12,14,26/1/2023
+P0056,Baju Kurung Elegance,Batik,Casual Wear,78,364.33,109.54,5,27/1/2023
+P0092,Batik Formal Shirt,Baju Melayu,Casual Wear,89,251.39,87.23,6,27/1/2023
+P0079,Jubah Pastel,Batik,Glam Silver,49,143.93,276.16,14,27/1/2023
+P0032,Jubah with Lace,Baju Melayu,Luxe Gold,47,413.73,45.2,17,27/1/2023
+P0070,Batik Tunic Dress,Kurta,Glam Silver,31,310.02,218.57,6,28/1/2023
+P0079,Jubah Pastel,Baju Melayu,Luxe Gold,100,188.94,207.36,2,28/1/2023
+P0008,Jubah Traditional,Baju Melayu,Luxe Gold,74,171.82,154.25,16,28/1/2023
+P0030,Batik Pareo,Kurta,Casual Wear,67,328.25,127.12,18,29/1/2023
+P0025,Baju Kurung Traditional,Batik,Glam Silver,15,178.52,145.58,14,30/1/2023
+P0033,Batik Tunic,Batik,Casual Wear,89,93.57,260.57,1,30/1/2023
+P0086,Jubah Simplicity,Kurta,Casual Wear,59,160.74,155.37,16,30/1/2023
+P0086,Jubah Simplicity,Baju Melayu,Luxe Gold,47,249.66,66.93,10,30/1/2023
+P0100,,Kurta,Casual Wear,12,192.71,156.8,3,30/1/2023
+P0007,Blouse Modern,Kurta,Glam Silver,42,73.97,182.88,15,31/1/2023
+P0026,Casual Kurta,Kurta,Glam Silver,39,98.39,93.21,16,31/1/2023
+P0095,Kurta Everyday,Baju Melayu,Luxe Gold,55,328.83,114.65,2,31/1/2023
+P0075,Jubah Chic,Batik,Casual Wear,93,272.08,209.56,7,1/2/2023
+P0097,Traditional Batik Dress,Kurta,Glam Silver,73,327.35,104.81,10,1/2/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Luxe Gold,16,434.92,87.05,15,3/2/2023
+P0058,Batik Wrap Dress,Kurta,Glam Silver,20,155.64,39.76,13,4/2/2023
+P0025,Baju Kurung Traditional,Kurta,Glam Silver,48,380.39,166.33,11,5/2/2023
+P0028,Baju Melayu Kids,Batik,Glam Silver,78,277.91,277.15,13,5/2/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Casual Wear,70,353.46,191.26,3,5/2/2023
+P0070,Batik Tunic Dress,Baju Melayu,Glam Silver,41,372.64,130.51,1,5/2/2023
+P0007,Blouse Modern,Kurta,Casual Wear,88,486.76,128.11,15,5/2/2023
+P0048,Blouse with Batik Print,Baju Melayu,Luxe Gold,15,394.17,159.36,17,6/2/2023
+P0091,Kurta with Batik Print,Baju Melayu,Casual Wear,99,112.78,271.17,14,6/2/2023
+P0047,Baju Melayu Glam,Baju Melayu,Casual Wear,84,241.35,272.52,19,7/2/2023
+P0075,Jubah Chic,Batik,Casual Wear,21,80.99,278.95,17,7/2/2023
+P0093,Jubah Glam,Batik,Glam Silver,10,359.77,73.48,19,7/2/2023
+P0100,,Batik,Casual Wear,44,405.6,36.17,18,7/2/2023
+P0030,Batik Pareo,Baju Melayu,Glam Silver,38,117.32,207.04,9,8/2/2023
+P0046,Batik Slim Fit Shirt,Baju Melayu,Casual Wear,34,50.24,160.49,12,8/2/2023
+P0017,Kurta Slim Fit,Kurta,Casual Wear,58,401.47,256.2,14,8/2/2023
+P0002,Baju Kurung Moden,Batik,Luxe Gold,66,187.19,188.41,11,9/2/2023
+P0060,Jubah Casual,Kurta,Glam Silver,70,356.33,281.17,13,9/2/2023
+P0045,Kurta Linen,Kurta,Luxe Gold,45,244.59,267.18,18,9/2/2023
+P0007,Blouse Modern,Baju Melayu,Luxe Gold,95,160.99,73.83,19,11/2/2023
+P0042,Baju Melayu Festive,Batik,Casual Wear,30,175.21,132.75,1,12/2/2023
+P0021,Baju Melayu Luxe,Baju Melayu,Luxe Gold,68,221.68,105.34,15,13/2/2023
+P0057,Kurta Formal,Batik,Casual Wear,80,290.78,144.24,12,13/2/2023
+P0051,Kurta Stylish,Baju Melayu,Casual Wear,93,184.07,127.57,2,13/2/2023
+P0002,Baju Kurung Moden,Batik,Luxe Gold,54,466.51,66.45,9,14/2/2023
+P0054,Batik Peplum,Batik,Casual Wear,30,473.67,144.07,10,14/2/2023
+P0075,Jubah Chic,Kurta,Luxe Gold,71,315.35,60.03,3,14/2/2023
+P0086,Jubah Simplicity,Baju Melayu,Luxe Gold,79,102.48,194.89,17,14/2/2023
+P0071,Kurta Traditional,Batik,Luxe Gold,37,386.85,76.14,16,14/2/2023
+P0034,Baju Kurung Satin,Baju Melayu,Luxe Gold,44,499.1,144.22,6,15/2/2023
+P0001,Baju Melayu Cekak Musang,Baju Melayu,Luxe Gold,10,226.1,49.07,3,15/2/2023
+P0042,Baju Melayu Festive,Baju Melayu,Luxe Gold,38,80.64,203.26,15,15/2/2023
+P0091,Kurta with Batik Print,Batik,Glam Silver,22,334.97,99.87,6,15/2/2023
+P0016,Modern Batik Dress,Kurta,Luxe Gold,24,218.18,177.76,12,15/2/2023
+P0018,Baju Kurung Cotton,Kurta,Casual Wear,56,122.38,138.57,1,17/2/2023
+P0078,Batik Sarong Dress,Kurta,Glam Silver,77,265.7,181.35,16,17/2/2023
+P0076,Baju Melayu Comfort,Batik,Glam Silver,61,194.37,148.46,17,18/2/2023
+P0092,Batik Formal Shirt,Batik,Glam Silver,34,91.11,168.8,14,18/2/2023
+P0094,Batik Tunic with Embroidery,Batik,Casual Wear,15,328.58,161.59,19,18/2/2023
+P0084,Kurta Premium,Kurta,Luxe Gold,37,393.75,199.07,5,18/2/2023
+P0001,Baju Melayu Cekak Musang,Baju Melayu,Luxe Gold,24,465.58,89.87,6,19/2/2023
+P0052,Batik A-Line Dress,Baju Melayu,Glam Silver,25,218.22,199.5,7,19/2/2023
+P0083,Batik A-Line Skirt,Kurta,Casual Wear,42,454.24,271.39,2,19/2/2023
+P0026,Casual Kurta,Kurta,Casual Wear,67,339.83,298.87,13,19/2/2023
+P0014,Jubah Abaya,Baju Melayu,Casual Wear,25,253.25,161.36,8,19/2/2023
+P0022,Kurta Ombre,Baju Melayu,Casual Wear,24,204.7,236.6,5,19/2/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Glam Silver,56,180.08,238.05,3,19/2/2023
+P0023,Traditional Batik Sarong,Batik,Luxe Gold,66,59.92,142.2,16,19/2/2023
+P0053,Baju Melayu Classic Fit,Baju Melayu,Glam Silver,98,346.69,298.3,17,20/2/2023
+P0030,Batik Pareo,Batik,Glam Silver,99,64.86,49.97,14,20/2/2023
+P0017,Kurta Slim Fit,Baju Melayu,Casual Wear,25,441.36,269.22,18,21/2/2023
+P0075,Jubah Chic,Kurta,Luxe Gold,66,224.28,64.41,14,22/2/2023
+P0036,Batik Maxi Skirt,Kurta,Glam Silver,41,416.31,163.27,5,23/2/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Glam Silver,90,185.67,191.95,3,24/2/2023
+P0065,Jubah Festive,Kurta,Casual Wear,39,214.46,149.32,1,25/2/2023
+P0018,Baju Kurung Cotton,Kurta,Luxe Gold,52,332.19,38.22,13,26/2/2023
+P0005,Batik Sarong,Kurta,Casual Wear,71,214.38,229.66,7,26/2/2023
+P0026,Casual Kurta,Batik,Casual Wear,31,429.18,162.94,11,26/2/2023
+P0072,Batik Kurung,Kurta,Casual Wear,80,449.64,237.12,17,27/2/2023
+P0054,Batik Peplum,Baju Melayu,Glam Silver,34,82.87,88.3,11,27/2/2023
+P0013,Baju Kurung Lace,Batik,Luxe Gold,72,167.68,96.26,9,1/3/2023
+P0054,Batik Peplum,Batik,Casual Wear,46,67.9,51.81,6,1/3/2023
+P0051,Kurta Stylish,Batik,Casual Wear,91,454.28,232.82,18,1/3/2023
+P0078,Batik Sarong Dress,Kurta,Luxe Gold,44,191.54,200.04,3,2/3/2023
+P0033,Batik Tunic,Kurta,Glam Silver,18,189,106.28,16,2/3/2023
+P0006,Baju Kurung Pahang,Kurta,Luxe Gold,33,378.05,213.45,6,3/3/2023
+P0022,Kurta Ombre,Batik,Luxe Gold,25,332.37,114.08,2,3/3/2023
+P0042,Baju Melayu Festive,Kurta,Casual Wear,13,457.66,182.47,2,5/3/2023
+P0079,Jubah Pastel,Kurta,Luxe Gold,83,490.26,95.36,11,5/3/2023
+P0095,Kurta Everyday,Kurta,Luxe Gold,78,326.2,76.31,11,5/3/2023
+P0045,Kurta Linen,Baju Melayu,Glam Silver,62,394.14,31.87,17,5/3/2023
+P0013,Baju Kurung Lace,Baju Melayu,Luxe Gold,44,177.92,240.7,11,6/3/2023
+P0031,Blouse for Sisters,Baju Melayu,Glam Silver,17,464.88,260.99,6,6/3/2023
+P0036,Batik Maxi Skirt,Kurta,Casual Wear,20,68.6,297.15,19,8/3/2023
+P0080,Batik Palazzo Pants,Batik,Luxe Gold,94,187.25,289.88,3,8/3/2023
+P0081,Casual Baju Kurung,Batik,Casual Wear,61,97.78,98.07,14,8/3/2023
+P0008,Jubah Traditional,Kurta,Casual Wear,62,479.48,168.51,5,8/3/2023
+P0004,Kurta Casual,Kurta,Glam Silver,92,375.21,238.06,19,8/3/2023
+P0046,Batik Slim Fit Shirt,Batik,Casual Wear,70,416.3,134.07,7,9/3/2023
+P0086,Jubah Simplicity,Batik,Glam Silver,50,52.78,85.76,5,9/3/2023
+P0003,Baju Melayu Slim Fit,Baju Melayu,Luxe Gold,96,323.19,83.19,18,10/3/2023
+P0096,Batik Kaftan Luxe,Kurta,Casual Wear,77,401.11,73.62,1,10/3/2023
+P0016,Modern Batik Dress,Baju Melayu,Glam Silver,58,474.26,251.39,20,10/3/2023
+P0056,Baju Kurung Elegance,Batik,Glam Silver,91,102.65,68.08,19,11/3/2023
+P0010,Baju Melayu Classic,Batik,Luxe Gold,15,374.17,140.14,3,11/3/2023
+P0075,Jubah Chic,Baju Melayu,Glam Silver,43,235.95,136.65,15,11/3/2023
+P0009,Batik Long Skirt,Kurta,Casual Wear,28,486.83,210.05,15,12/3/2023
+P0084,Kurta Premium,Baju Melayu,Casual Wear,62,401.44,231.07,1,12/3/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Casual Wear,91,336.45,272.57,7,12/3/2023
+P0100,,Baju Melayu,Casual Wear,90,287.04,174.68,2,12/3/2023
+P0018,Baju Kurung Cotton,Kurta,Glam Silver,82,320.76,82.12,15,13/3/2023
+P0006,Baju Kurung Pahang,Batik,Luxe Gold,53,267.99,58.45,6,13/3/2023
+P0019,Blouse with Ruffles,Batik,Casual Wear,57,340.21,46.08,11,13/3/2023
+P0082,Jubah Elegant,Batik,Casual Wear,63,437.84,56.91,12,13/3/2023
+P0038,Modern Jubah,Baju Melayu,Glam Silver,15,136.53,92.2,13,13/3/2023
+P0020,Batik Kaftan,Kurta,Luxe Gold,93,78.93,207.19,16,15/3/2023
+P0096,Batik Kaftan Luxe,Kurta,Casual Wear,99,352.01,88.83,12,15/3/2023
+P0087,Kurta Urban,Baju Melayu,Glam Silver,58,231.54,60.67,14,15/3/2023
+P0038,Modern Jubah,Kurta,Casual Wear,69,242.11,195.37,18,15/3/2023
+P0070,Batik Tunic Dress,Kurta,Casual Wear,82,281.81,86.47,4,16/3/2023
+P0038,Modern Jubah,Baju Melayu,Casual Wear,52,418.02,200.27,16,17/3/2023
+P0029,Kurta for Boys,Batik,Luxe Gold,17,370.27,258.83,19,18/3/2023
+P0098,Kurta Premium Cotton,Kurta,Glam Silver,45,470.68,73.93,18,18/3/2023
+P0098,Kurta Premium Cotton,Batik,Luxe Gold,93,339.16,287.68,1,19/3/2023
+P0078,Batik Sarong Dress,Kurta,Glam Silver,53,448.63,261.11,6,20/3/2023
+P0090,Batik Scarf Wrap,Kurta,Luxe Gold,51,376.91,275.95,7,20/3/2023
+P0082,Jubah Elegant,Baju Melayu,Glam Silver,98,52.81,230.89,12,20/3/2023
+P0058,Batik Wrap Dress,Batik,Casual Wear,43,231.45,135.5,5,21/3/2023
+P0013,Baju Kurung Lace,Batik,Casual Wear,60,259.46,178.82,10,22/3/2023
+P0068,Baju Melayu Luxe Silver,Kurta,Casual Wear,54,383.58,79.39,8,22/3/2023
+P0047,Baju Melayu Glam,Batik,Luxe Gold,42,323.93,282.83,1,23/3/2023
+P0028,Baju Melayu Kids,Kurta,Glam Silver,13,243.25,36.68,16,23/3/2023
+P0096,Batik Kaftan Luxe,Batik,Glam Silver,50,438.53,42.88,4,23/3/2023
+P0095,Kurta Everyday,Kurta,Glam Silver,91,170.88,289.79,7,23/3/2023
+P0002,Baju Kurung Moden,Kurta,Glam Silver,68,191.53,63.07,15,24/3/2023
+P0027,Premium Batik Shirt,Kurta,Casual Wear,17,357.63,180.25,8,24/3/2023
+P0020,Batik Kaftan,Baju Melayu,Casual Wear,82,83.14,157.73,1,25/3/2023
+P0045,Kurta Linen,Batik,Luxe Gold,96,137.36,79.4,20,25/3/2023
+P0003,Baju Melayu Slim Fit,Kurta,Casual Wear,40,237.01,51.61,3,26/3/2023
+P0069,Jubah for Kids,Batik,Glam Silver,36,345.88,239.46,3,26/3/2023
+P0040,Kurta Cotton,Baju Melayu,Luxe Gold,89,417.91,183.51,8,26/3/2023
+P0021,Baju Melayu Luxe,Batik,Casual Wear,31,257.87,31.59,11,27/3/2023
+P0085,Batik Modern Wrap,Kurta,Casual Wear,26,100.79,186,3,27/3/2023
+P0051,Kurta Stylish,Batik,Glam Silver,80,187.54,289.69,17,27/3/2023
+P0099,,Batik,Luxe Gold,59,256.78,76.19,19,27/3/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Glam Silver,64,182.93,281.42,13,28/3/2023
+P0014,Jubah Abaya,Baju Melayu,Luxe Gold,91,83.22,216.66,13,28/3/2023
+P0075,Jubah Chic,Kurta,Glam Silver,75,175.93,197.31,1,28/3/2023
+P0079,Jubah Pastel,Batik,Casual Wear,17,284.78,67.63,8,28/3/2023
+P0038,Modern Jubah,Baju Melayu,Casual Wear,14,459.4,54.37,8,28/3/2023
+P0046,Batik Slim Fit Shirt,Batik,Luxe Gold,76,271.57,239.24,16,29/3/2023
+P0071,Kurta Traditional,Batik,Casual Wear,41,116.35,246.16,2,29/3/2023
+P0066,Batik Maxi Dress,Baju Melayu,Glam Silver,20,499.25,154.57,11,30/3/2023
+P0054,Batik Peplum,Batik,Luxe Gold,25,321.53,83.33,12,30/3/2023
+P0039,Batik Scarf,Baju Melayu,Luxe Gold,82,171.73,219.91,15,30/3/2023
+P0073,Elegant Batik Skirt,Kurta,Casual Wear,18,427.36,239.09,20,31/3/2023
+P0040,Kurta Cotton,Kurta,Casual Wear,51,92.48,110.15,8,31/3/2023
+P0050,Batik Palazzo,Batik,Luxe Gold,28,263.67,247.2,6,1/4/2023
+P0060,Jubah Casual,Batik,Casual Wear,97,428.46,166.64,4,1/4/2023
+P0071,Kurta Traditional,Kurta,Glam Silver,19,388.04,37.77,11,1/4/2023
+P0100,,Kurta,Glam Silver,28,272.05,57.72,14,1/4/2023
+P0006,Baju Kurung Pahang,Kurta,Casual Wear,25,381.37,124.09,18,2/4/2023
+P0084,Kurta Premium,Kurta,Glam Silver,16,303.09,85.41,19,2/4/2023
+P0098,Kurta Premium Cotton,Batik,Casual Wear,75,241.2,257.87,7,2/4/2023
+P0047,Baju Melayu Glam,Baju Melayu,Glam Silver,89,429.64,91.61,10,3/4/2023
+P0078,Batik Sarong Dress,Batik,Glam Silver,62,482.29,106.02,16,3/4/2023
+P0002,Baju Kurung Moden,Batik,Luxe Gold,48,115.49,40.09,18,4/4/2023
+P0009,Batik Long Skirt,Batik,Casual Wear,49,257.42,185.88,11,4/4/2023
+P0024,Jubah Simple,Batik,Casual Wear,97,144.78,272.16,15,4/4/2023
+P0036,Batik Maxi Skirt,Batik,Luxe Gold,25,386.19,169.88,17,5/4/2023
+P0089,Traditional Jubah,Kurta,Glam Silver,11,473.23,77.43,17,5/4/2023
+P0053,Baju Melayu Classic Fit,Baju Melayu,Luxe Gold,39,351.83,97.44,20,6/4/2023
+P0066,Batik Maxi Dress,Kurta,Luxe Gold,50,454.61,250.55,2,6/4/2023
+P0072,Batik Kurung,Batik,Luxe Gold,32,215.89,120.22,8,7/4/2023
+P0085,Batik Modern Wrap,Batik,Casual Wear,62,485.35,107.93,10,7/4/2023
+P0026,Casual Kurta,Baju Melayu,Glam Silver,28,96.52,119.72,20,7/4/2023
+P0073,Elegant Batik Skirt,Baju Melayu,Luxe Gold,27,364.78,238.55,17,7/4/2023
+P0050,Batik Palazzo,Baju Melayu,Casual Wear,84,352.24,238.72,12,8/4/2023
+P0088,Modern Baju Melayu,Kurta,Glam Silver,12,304.54,169.99,10,8/4/2023
+P0074,Modern Batik Shirt,Batik,Luxe Gold,84,325.8,85.45,15,8/4/2023
+P0026,Casual Kurta,Kurta,Casual Wear,22,404.69,248.3,11,9/4/2023
+P0026,Casual Kurta,Kurta,Casual Wear,77,148.6,77.46,4,9/4/2023
+P0014,Jubah Abaya,Batik,Casual Wear,36,217.78,176.08,20,9/4/2023
+P0013,Baju Kurung Lace,Batik,Glam Silver,26,153.47,288.44,15,10/4/2023
+P0015,Baju Melayu Teluk Belanga,Batik,Glam Silver,79,386.21,204.39,14,10/4/2023
+P0067,Kurta Festive,Kurta,Casual Wear,27,418.13,176.81,14,10/4/2023
+P0042,Baju Melayu Festive,Batik,Luxe Gold,74,327.28,139.03,17,11/4/2023
+P0052,Batik A-Line Dress,Baju Melayu,Luxe Gold,85,319.76,259.4,20,11/4/2023
+P0026,Casual Kurta,Baju Melayu,Casual Wear,10,440.77,104.99,20,11/4/2023
+P0038,Modern Jubah,Kurta,Luxe Gold,39,431.01,78.74,2,11/4/2023
+P0100,,Kurta,Casual Wear,45,384.04,69.42,6,11/4/2023
+P0014,Jubah Abaya,Batik,Luxe Gold,41,244.71,168.97,16,12/4/2023
+P0094,Batik Tunic with Embroidery,Baju Melayu,Glam Silver,63,496.74,137.24,10,13/4/2023
+P0057,Kurta Formal,Kurta,Glam Silver,16,171.34,121,1,13/4/2023
+P0019,Blouse with Ruffles,Baju Melayu,Glam Silver,48,342.49,257.57,8,14/4/2023
+P0098,Kurta Premium Cotton,Batik,Glam Silver,94,308.66,107.42,20,14/4/2023
+P0034,Baju Kurung Satin,Baju Melayu,Glam Silver,41,105.74,125.89,11,15/4/2023
+P0015,Baju Melayu Teluk Belanga,Kurta,Casual Wear,75,56.57,209.45,19,15/4/2023
+P0046,Batik Slim Fit Shirt,Baju Melayu,Glam Silver,66,475.81,231.53,4,15/4/2023
+P0093,Jubah Glam,Batik,Casual Wear,60,106.32,114.55,9,16/4/2023
+P0029,Kurta for Boys,Batik,Casual Wear,36,184.47,126.78,8,16/4/2023
+P0010,Baju Melayu Classic,Kurta,Casual Wear,57,89.68,114.75,20,17/4/2023
+P0021,Baju Melayu Luxe,Batik,Glam Silver,63,62.93,226.54,2,17/4/2023
+P0024,Jubah Simple,Baju Melayu,Glam Silver,31,76.35,97.73,11,17/4/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Casual Wear,48,80.43,260.09,12,17/4/2023
+P0095,Kurta Everyday,Kurta,Casual Wear,71,188.76,275.1,13,18/4/2023
+P0025,Baju Kurung Traditional,Batik,Glam Silver,45,201.61,272,10,19/4/2023
+P0085,Batik Modern Wrap,Kurta,Casual Wear,70,157.83,39.45,15,19/4/2023
+P0028,Baju Melayu Kids,Baju Melayu,Casual Wear,59,376.9,106.78,8,20/4/2023
+P0088,Modern Baju Melayu,Baju Melayu,Luxe Gold,42,208.53,67.09,14,20/4/2023
+P0027,Premium Batik Shirt,Kurta,Casual Wear,14,286.2,294.98,19,20/4/2023
+P0028,Baju Melayu Kids,Baju Melayu,Glam Silver,40,221.9,60.45,12,21/4/2023
+P0033,Batik Tunic,Batik,Luxe Gold,92,155.47,53.23,13,21/4/2023
+P0060,Jubah Casual,Kurta,Casual Wear,100,291.05,274.45,3,21/4/2023
+P0065,Jubah Festive,Batik,Casual Wear,31,113.23,299.32,5,21/4/2023
+P0065,Jubah Festive,Kurta,Luxe Gold,96,70.49,133.86,2,21/4/2023
+P0066,Batik Maxi Dress,Baju Melayu,Luxe Gold,30,305.79,119.96,19,22/4/2023
+P0071,Kurta Traditional,Kurta,Glam Silver,21,254.89,91.67,18,22/4/2023
+P0074,Modern Batik Shirt,Batik,Luxe Gold,53,262.71,253.79,10,22/4/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Casual Wear,97,201.83,244.97,1,23/4/2023
+P0007,Blouse Modern,Baju Melayu,Casual Wear,14,203.32,39.2,8,23/4/2023
+P0003,Baju Melayu Slim Fit,Batik,Glam Silver,12,243.19,246.16,12,24/4/2023
+P0026,Casual Kurta,Baju Melayu,Casual Wear,39,84.37,165.55,7,24/4/2023
+P0040,Kurta Cotton,Batik,Luxe Gold,90,243.64,123.63,6,25/4/2023
+P0048,Blouse with Batik Print,Baju Melayu,Glam Silver,30,296.51,233.56,7,26/4/2023
+P0035,Classic Kurta,Baju Melayu,Glam Silver,36,422.35,289.55,8,26/4/2023
+P0009,Batik Long Skirt,Baju Melayu,Glam Silver,44,53.99,208.1,1,27/4/2023
+P0090,Batik Scarf Wrap,Baju Melayu,Luxe Gold,76,400.65,154.22,12,27/4/2023
+P0063,Modern Baju Kurung,Batik,Casual Wear,29,196.7,268.04,2,27/4/2023
+P0043,Jubah Luxe Gold,Baju Melayu,Casual Wear,72,493.5,206.4,19,28/4/2023
+P0008,Jubah Traditional,Kurta,Glam Silver,72,335.66,231.95,15,28/4/2023
+P0067,Kurta Festive,Batik,Luxe Gold,66,201.67,132.78,13,28/4/2023
+P0021,Baju Melayu Luxe,Baju Melayu,Casual Wear,53,434.2,202.7,15,29/4/2023
+P0008,Jubah Traditional,Batik,Glam Silver,58,365.45,189.98,14,29/4/2023
+P0088,Modern Baju Melayu,Kurta,Casual Wear,69,399.85,91.19,9,29/4/2023
+P0015,Baju Melayu Teluk Belanga,Batik,Luxe Gold,79,294.52,70.93,16,30/4/2023
+P0028,Baju Melayu Kids,Batik,Glam Silver,51,239.05,197.85,5,1/5/2023
+P0081,Casual Baju Kurung,Baju Melayu,Casual Wear,15,412.78,263.26,14,1/5/2023
+P0058,Batik Wrap Dress,Batik,Glam Silver,18,450.7,292.52,10,2/5/2023
+P0093,Jubah Glam,Kurta,Casual Wear,95,329.08,44.31,4,3/5/2023
+P0079,Jubah Pastel,Kurta,Glam Silver,54,295.7,275.55,2,3/5/2023
+P0009,Batik Long Skirt,Baju Melayu,Glam Silver,81,494.97,30.51,13,4/5/2023
+P0073,Elegant Batik Skirt,Batik,Casual Wear,52,428.11,211.53,3,4/5/2023
+P0065,Jubah Festive,Baju Melayu,Luxe Gold,80,70.68,248.73,9,4/5/2023
+P0028,Baju Melayu Kids,Batik,Glam Silver,75,426.35,204.14,4,5/5/2023
+P0028,Baju Melayu Kids,Kurta,Glam Silver,34,330.21,65.49,10,5/5/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Glam Silver,48,285.91,85.38,7,5/5/2023
+P0097,Traditional Batik Dress,Baju Melayu,Casual Wear,85,422.06,202.97,1,5/5/2023
+P0097,Traditional Batik Dress,Baju Melayu,Luxe Gold,38,484.38,150.18,3,5/5/2023
+P0089,Traditional Jubah,Baju Melayu,Glam Silver,30,428.51,129.92,4,5/5/2023
+P0056,Baju Kurung Elegance,Kurta,Casual Wear,41,179.14,172.38,3,6/5/2023
+P0013,Baju Kurung Lace,Baju Melayu,Glam Silver,53,221.73,254.8,10,6/5/2023
+P0093,Jubah Glam,Baju Melayu,Glam Silver,73,380.02,224.04,12,7/5/2023
+P0011,Kurta with Embroidery,Batik,Luxe Gold,77,449.73,182.45,14,7/5/2023
+P0018,Baju Kurung Cotton,Kurta,Casual Wear,84,419.52,282.46,13,8/5/2023
+P0021,Baju Melayu Luxe,Batik,Luxe Gold,66,179.7,163.05,13,8/5/2023
+P0024,Jubah Simple,Batik,Luxe Gold,87,257.95,141.24,9,8/5/2023
+P0031,Blouse for Sisters,Baju Melayu,Casual Wear,33,338.77,244.73,15,9/5/2023
+P0032,Jubah with Lace,Baju Melayu,Glam Silver,28,197,39.45,17,9/5/2023
+P0055,Casual Batik Shirt,Batik,Casual Wear,58,120.94,71.93,5,10/5/2023
+P0042,Baju Melayu Festive,Kurta,Casual Wear,94,395.71,293.8,1,11/5/2023
+P0003,Baju Melayu Slim Fit,Kurta,Glam Silver,60,385.59,108.94,12,11/5/2023
+P0076,Baju Melayu Comfort,Batik,Luxe Gold,87,75.41,50,1,12/5/2023
+P0008,Jubah Traditional,Batik,Glam Silver,74,197.83,212.16,17,12/5/2023
+P0038,Modern Jubah,Kurta,Luxe Gold,72,90.69,293.03,9,12/5/2023
+P0077,Stylish Kurta,Batik,Casual Wear,54,306.15,281.01,11,12/5/2023
+P0003,Baju Melayu Slim Fit,Batik,Glam Silver,17,150.71,187.15,2,13/5/2023
+P0083,Batik A-Line Skirt,Kurta,Glam Silver,30,261.58,174.41,18,13/5/2023
+P0031,Blouse for Sisters,Baju Melayu,Casual Wear,53,287.78,201.45,13,13/5/2023
+P0049,Jubah Plain,Batik,Casual Wear,80,278.1,115.36,13,13/5/2023
+P0054,Batik Peplum,Baju Melayu,Casual Wear,27,59.88,35,17,14/5/2023
+P0073,Elegant Batik Skirt,Batik,Luxe Gold,25,379.29,276.38,11,14/5/2023
+P0037,Baju Melayu Elegant,Batik,Luxe Gold,13,322.86,234.59,7,16/5/2023
+P0078,Batik Sarong Dress,Kurta,Casual Wear,81,470.13,237.23,19,16/5/2023
+P0091,Kurta with Batik Print,Baju Melayu,Casual Wear,76,385.36,252.04,20,16/5/2023
+P0028,Baju Melayu Kids,Batik,Glam Silver,14,133.48,220.34,1,18/5/2023
+P0059,Baju Melayu Moden,Kurta,Luxe Gold,91,197.21,208.25,14,18/5/2023
+P0012,Batik Shirt,Batik,Glam Silver,73,221.84,270.83,3,18/5/2023
+P0014,Jubah Abaya,Baju Melayu,Glam Silver,72,205.16,145.55,15,18/5/2023
+P0084,Kurta Premium,Batik,Glam Silver,32,463.49,199.33,14,18/5/2023
+P0035,Classic Kurta,Baju Melayu,Casual Wear,92,142.31,177.88,8,21/5/2023
+P0065,Jubah Festive,Kurta,Casual Wear,95,142.99,229.35,12,21/5/2023
+P0086,Jubah Simplicity,Baju Melayu,Casual Wear,81,400.24,288.26,14,21/5/2023
+P0002,Baju Kurung Moden,Baju Melayu,Luxe Gold,14,213.22,132.13,5,22/5/2023
+P0055,Casual Batik Shirt,Baju Melayu,Casual Wear,43,221.41,98.94,15,22/5/2023
+P0008,Jubah Traditional,Kurta,Glam Silver,63,221.53,230.87,19,22/5/2023
+P0063,Modern Baju Kurung,Batik,Casual Wear,91,290.29,256.53,14,22/5/2023
+P0085,Batik Modern Wrap,Batik,Luxe Gold,12,245.52,130.62,11,23/5/2023
+P0046,Batik Slim Fit Shirt,Baju Melayu,Luxe Gold,25,118.17,151.52,7,23/5/2023
+P0073,Elegant Batik Skirt,Batik,Luxe Gold,94,213,220.69,3,24/5/2023
+P0045,Kurta Linen,Batik,Glam Silver,32,102.52,191.08,15,24/5/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Luxe Gold,56,169.7,189.25,13,25/5/2023
+P0073,Elegant Batik Skirt,Kurta,Luxe Gold,15,129.76,129.28,17,25/5/2023
+P0062,Kurta Embossed,Baju Melayu,Casual Wear,89,250.42,97.2,17,25/5/2023
+P0096,Batik Kaftan Luxe,Baju Melayu,Casual Wear,38,56.87,49.72,8,27/5/2023
+P0082,Jubah Elegant,Batik,Casual Wear,23,135.79,130.27,20,27/5/2023
+P0012,Batik Shirt,Batik,Casual Wear,69,480.87,167.8,11,28/5/2023
+P0035,Classic Kurta,Kurta,Glam Silver,47,430.3,89.61,3,28/5/2023
+P0095,Kurta Everyday,Baju Melayu,Casual Wear,72,444.28,207.65,5,29/5/2023
+P0045,Kurta Linen,Batik,Casual Wear,23,407.55,67.61,16,29/5/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Casual Wear,99,259.42,90.71,2,30/5/2023
+P0090,Batik Scarf Wrap,Baju Melayu,Casual Wear,75,102.8,31.36,8,30/5/2023
+P0023,Traditional Batik Sarong,Baju Melayu,Luxe Gold,74,412.42,194.65,15,30/5/2023
+P0099,,Kurta,Luxe Gold,13,360.7,286.92,5,30/5/2023
+P0053,Baju Melayu Classic Fit,Kurta,Glam Silver,71,377.45,85.78,17,31/5/2023
+P0028,Baju Melayu Kids,Kurta,Glam Silver,10,339.11,170.34,5,31/5/2023
+P0031,Blouse for Sisters,Baju Melayu,Luxe Gold,94,90.36,166.52,5,1/6/2023
+P0081,Casual Baju Kurung,Kurta,Luxe Gold,94,63.97,203.04,20,1/6/2023
+P0057,Kurta Formal,Baju Melayu,Glam Silver,37,219.92,284.51,8,1/6/2023
+P0097,Traditional Batik Dress,Batik,Casual Wear,52,202.34,191.58,16,1/6/2023
+P0018,Baju Kurung Cotton,Batik,Luxe Gold,75,98.21,200.62,5,2/6/2023
+P0082,Jubah Elegant,Batik,Luxe Gold,56,476.84,219.59,8,2/6/2023
+P0068,Baju Melayu Luxe Silver,Kurta,Luxe Gold,85,293.93,228.26,16,3/6/2023
+P0033,Batik Tunic,Baju Melayu,Casual Wear,31,190.61,72.27,11,3/6/2023
+P0004,Kurta Casual,Batik,Luxe Gold,83,151.8,210.69,18,3/6/2023
+P0091,Kurta with Batik Print,Baju Melayu,Glam Silver,40,358.22,103.7,7,3/6/2023
+P0052,Batik A-Line Dress,Kurta,Luxe Gold,27,131.76,291.98,9,4/6/2023
+P0061,Batik Flare Skirt,Batik,Luxe Gold,91,494.92,280.92,1,4/6/2023
+P0063,Modern Baju Kurung,Baju Melayu,Casual Wear,16,166.72,69.68,20,4/6/2023
+P0034,Baju Kurung Satin,Kurta,Casual Wear,80,234.46,236.35,10,5/6/2023
+P0019,Blouse with Ruffles,Batik,Casual Wear,59,469.38,281.75,1,5/6/2023
+P0086,Jubah Simplicity,Kurta,Glam Silver,25,64.26,136.44,19,5/6/2023
+P0095,Kurta Everyday,Baju Melayu,Luxe Gold,74,99.87,126.82,18,5/6/2023
+P0022,Kurta Ombre,Batik,Casual Wear,58,82.16,68.73,9,5/6/2023
+P0058,Batik Wrap Dress,Kurta,Casual Wear,33,126.89,62.8,14,6/6/2023
+P0023,Traditional Batik Sarong,Baju Melayu,Casual Wear,84,247.8,50.89,3,6/6/2023
+P0100,,Kurta,Casual Wear,26,261.84,183.21,4,6/6/2023
+P0080,Batik Palazzo Pants,Batik,Glam Silver,90,223.46,100.54,13,7/6/2023
+P0008,Jubah Traditional,Batik,Luxe Gold,42,70.05,234.43,17,7/6/2023
+P0002,Baju Kurung Moden,Kurta,Luxe Gold,74,221.41,96.17,4,8/6/2023
+P0096,Batik Kaftan Luxe,Batik,Glam Silver,19,289.13,140.96,17,8/6/2023
+P0065,Jubah Festive,Baju Melayu,Casual Wear,83,273.72,167.26,15,8/6/2023
+P0009,Batik Long Skirt,Baju Melayu,Glam Silver,49,322.6,243.71,16,9/6/2023
+P0080,Batik Palazzo Pants,Kurta,Casual Wear,34,91.67,221.43,3,9/6/2023
+P0070,Batik Tunic Dress,Baju Melayu,Luxe Gold,65,66.16,247.54,5,9/6/2023
+P0015,Baju Melayu Teluk Belanga,Baju Melayu,Luxe Gold,62,106.52,226.73,7,10/6/2023
+P0096,Batik Kaftan Luxe,Batik,Casual Wear,16,246.62,74.81,14,10/6/2023
+P0007,Blouse Modern,Kurta,Glam Silver,32,490.09,114.69,15,10/6/2023
+P0007,Blouse Modern,Baju Melayu,Glam Silver,85,163.57,171.57,8,11/6/2023
+P0040,Kurta Cotton,Baju Melayu,Glam Silver,56,187.05,178.48,8,11/6/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Luxe Gold,51,380.32,143.77,1,12/6/2023
+P0009,Batik Long Skirt,Baju Melayu,Casual Wear,97,69.18,212.3,11,12/6/2023
+P0029,Kurta for Boys,Kurta,Glam Silver,54,347.89,196.98,19,12/6/2023
+P0034,Baju Kurung Satin,Batik,Glam Silver,30,407.48,166.02,4,13/6/2023
+P0021,Baju Melayu Luxe,Kurta,Casual Wear,83,201.37,185.35,5,13/6/2023
+P0065,Jubah Festive,Baju Melayu,Casual Wear,40,410.94,102.78,5,13/6/2023
+P0017,Kurta Slim Fit,Batik,Luxe Gold,49,213.15,299.07,12,13/6/2023
+P0066,Batik Maxi Dress,Batik,Luxe Gold,86,233.3,194.98,15,14/6/2023
+P0078,Batik Sarong Dress,Baju Melayu,Casual Wear,63,303.2,160.7,4,14/6/2023
+P0060,Jubah Casual,Baju Melayu,Casual Wear,11,168.87,101.2,2,14/6/2023
+P0027,Premium Batik Shirt,Kurta,Casual Wear,40,494.54,205.34,15,15/6/2023
+P0010,Baju Melayu Classic,Kurta,Luxe Gold,77,397.8,273.16,19,16/6/2023
+P0071,Kurta Traditional,Baju Melayu,Glam Silver,72,92.51,111.89,7,16/6/2023
+P0071,Kurta Traditional,Kurta,Glam Silver,100,183.13,79.39,11,16/6/2023
+P0034,Baju Kurung Satin,Baju Melayu,Luxe Gold,58,155.07,193.56,18,17/6/2023
+P0043,Jubah Luxe Gold,Kurta,Glam Silver,60,454.57,264.21,14,17/6/2023
+P0040,Kurta Cotton,Baju Melayu,Glam Silver,20,179.4,242.84,8,17/6/2023
+P0002,Baju Kurung Moden,Batik,Casual Wear,54,281.56,204.03,8,19/6/2023
+P0023,Traditional Batik Sarong,Kurta,Glam Silver,35,448.64,148.16,13,19/6/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Casual Wear,65,190.81,131.97,18,20/6/2023
+P0012,Batik Shirt,Batik,Luxe Gold,49,389.92,291.77,12,20/6/2023
+P0033,Batik Tunic,Kurta,Luxe Gold,68,404.62,286.91,15,20/6/2023
+P0004,Kurta Casual,Baju Melayu,Casual Wear,81,352.62,265.61,12,20/6/2023
+P0057,Kurta Formal,Batik,Glam Silver,66,397.91,181.08,19,20/6/2023
+P0077,Stylish Kurta,Kurta,Glam Silver,93,105.68,73.23,17,20/6/2023
+P0013,Baju Kurung Lace,Baju Melayu,Glam Silver,86,252.57,253.74,2,21/6/2023
+P0059,Baju Melayu Moden,Batik,Glam Silver,55,496.75,289.9,12,21/6/2023
+P0024,Jubah Simple,Batik,Casual Wear,71,368.94,98.33,8,21/6/2023
+P0010,Baju Melayu Classic,Kurta,Casual Wear,24,127.4,74.47,4,22/6/2023
+P0094,Batik Tunic with Embroidery,Batik,Casual Wear,74,417.92,222.53,7,22/6/2023
+P0065,Jubah Festive,Batik,Glam Silver,26,253.25,34.51,11,22/6/2023
+P0040,Kurta Cotton,Kurta,Glam Silver,95,494.52,148.85,1,22/6/2023
+P0032,Jubah with Lace,Batik,Casual Wear,20,346.48,238.05,13,23/6/2023
+P0030,Batik Pareo,Kurta,Glam Silver,45,93.33,105.39,12,24/6/2023
+P0073,Elegant Batik Skirt,Baju Melayu,Casual Wear,22,346.56,289.33,14,24/6/2023
+P0040,Kurta Cotton,Kurta,Luxe Gold,80,195.19,144.82,19,24/6/2023
+P0029,Kurta for Boys,Kurta,Luxe Gold,13,243.22,247.93,13,24/6/2023
+P0029,Kurta for Boys,Batik,Glam Silver,64,135.24,115.31,3,24/6/2023
+P0057,Kurta Formal,Baju Melayu,Casual Wear,55,109.82,262.25,19,24/6/2023
+P0089,Traditional Jubah,Baju Melayu,Casual Wear,69,62.74,279.84,7,24/6/2023
+P0003,Baju Melayu Slim Fit,Baju Melayu,Glam Silver,25,154.27,31.18,17,25/6/2023
+P0004,Kurta Casual,Batik,Luxe Gold,91,172.09,54.75,17,25/6/2023
+P0087,Kurta Urban,Kurta,Casual Wear,98,372.73,33.78,5,25/6/2023
+P0027,Premium Batik Shirt,Kurta,Luxe Gold,58,415.23,152.01,17,25/6/2023
+P0028,Baju Melayu Kids,Baju Melayu,Luxe Gold,23,137.58,34.7,14,26/6/2023
+P0049,Jubah Plain,Kurta,Casual Wear,65,217.65,162.54,20,26/6/2023
+P0099,,Kurta,Glam Silver,11,97.95,73.51,14,26/6/2023
+P0086,Jubah Simplicity,Batik,Glam Silver,51,116.4,41.77,20,27/6/2023
+P0004,Kurta Casual,Kurta,Luxe Gold,47,405.65,130.7,9,28/6/2023
+P0045,Kurta Linen,Baju Melayu,Casual Wear,41,332.67,145.02,3,28/6/2023
+P0002,Baju Kurung Moden,Kurta,Luxe Gold,97,54.67,292.46,9,29/6/2023
+P0082,Jubah Elegant,Kurta,Casual Wear,26,302.89,71.14,11,29/6/2023
+P0062,Kurta Embossed,Baju Melayu,Luxe Gold,76,493.18,270.32,2,29/6/2023
+P0011,Kurta with Embroidery,Baju Melayu,Glam Silver,10,100.77,165.67,16,29/6/2023
+P0021,Baju Melayu Luxe,Baju Melayu,Luxe Gold,23,485.26,98.02,19,30/6/2023
+P0100,,Batik,Luxe Gold,75,363.57,124.82,2,30/6/2023
+P0034,Baju Kurung Satin,Kurta,Casual Wear,44,123.47,235.58,3,1/7/2023
+P0059,Baju Melayu Moden,Kurta,Glam Silver,19,445.91,209.38,2,1/7/2023
+P0061,Batik Flare Skirt,Kurta,Glam Silver,14,210.4,187.42,13,1/7/2023
+P0093,Jubah Glam,Batik,Casual Wear,68,434.42,192.33,1,1/7/2023
+P0062,Kurta Embossed,Kurta,Luxe Gold,16,211.39,232.96,19,1/7/2023
+P0007,Blouse Modern,Kurta,Glam Silver,61,102.11,42.17,14,2/7/2023
+P0073,Elegant Batik Skirt,Batik,Luxe Gold,56,285.55,245.18,11,2/7/2023
+P0079,Jubah Pastel,Batik,Glam Silver,97,452.79,100.42,19,2/7/2023
+P0022,Kurta Ombre,Baju Melayu,Casual Wear,33,405.27,75.84,20,2/7/2023
+P0079,Jubah Pastel,Batik,Luxe Gold,89,119.36,285.83,9,3/7/2023
+P0059,Baju Melayu Moden,Kurta,Glam Silver,48,481.92,275.36,19,4/7/2023
+P0078,Batik Sarong Dress,Batik,Casual Wear,17,83.34,87.25,1,4/7/2023
+P0059,Baju Melayu Moden,Baju Melayu,Casual Wear,22,233.2,103.22,17,5/7/2023
+P0037,Baju Melayu Elegant,Kurta,Casual Wear,41,202.17,34.94,17,6/7/2023
+P0009,Batik Long Skirt,Kurta,Luxe Gold,56,201.97,127.44,18,6/7/2023
+P0087,Kurta Urban,Baju Melayu,Glam Silver,14,444.59,59.2,15,6/7/2023
+P0041,Batik Wrap Skirt,Batik,Glam Silver,62,75.41,274.3,14,7/7/2023
+P0048,Blouse with Batik Print,Kurta,Glam Silver,54,492.57,87.26,19,7/7/2023
+P0040,Kurta Cotton,Baju Melayu,Glam Silver,86,412.27,63.06,11,7/7/2023
+P0038,Modern Jubah,Batik,Glam Silver,66,323.64,271.38,4,7/7/2023
+P0018,Baju Kurung Cotton,Kurta,Glam Silver,98,363.32,53.64,18,8/7/2023
+P0006,Baju Kurung Pahang,Kurta,Glam Silver,86,124.6,108.65,10,8/7/2023
+P0034,Baju Kurung Satin,Baju Melayu,Casual Wear,23,409.94,139,13,8/7/2023
+P0094,Batik Tunic with Embroidery,Batik,Glam Silver,87,432.1,206.44,16,8/7/2023
+P0046,Batik Slim Fit Shirt,Kurta,Luxe Gold,73,344.95,281.64,12,9/7/2023
+P0033,Batik Tunic,Batik,Glam Silver,21,241.06,118.78,19,9/7/2023
+P0088,Modern Baju Melayu,Kurta,Glam Silver,12,150.01,217.65,19,9/7/2023
+P0061,Batik Flare Skirt,Baju Melayu,Glam Silver,49,430.59,164.17,11,11/7/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Casual Wear,35,452.62,195.52,2,11/7/2023
+P0006,Baju Kurung Pahang,Baju Melayu,Luxe Gold,63,218.57,292.38,16,12/7/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Luxe Gold,32,101.38,105.23,5,12/7/2023
+P0009,Batik Long Skirt,Batik,Casual Wear,86,326.08,216.65,2,12/7/2023
+P0025,Baju Kurung Traditional,Batik,Casual Wear,49,313.55,289.32,8,13/7/2023
+P0054,Batik Peplum,Kurta,Glam Silver,32,419.35,150.96,9,14/7/2023
+P0017,Kurta Slim Fit,Baju Melayu,Luxe Gold,93,104.24,294.12,11,14/7/2023
+P0055,Casual Batik Shirt,Batik,Glam Silver,98,185.47,171.44,10,15/7/2023
+P0026,Casual Kurta,Kurta,Glam Silver,40,489.58,90.7,14,15/7/2023
+P0052,Batik A-Line Dress,Batik,Glam Silver,18,470.43,88.71,13,16/7/2023
+P0083,Batik A-Line Skirt,Batik,Luxe Gold,32,73.34,247.72,3,16/7/2023
+P0098,Kurta Premium Cotton,Baju Melayu,Casual Wear,16,168.16,105.2,18,16/7/2023
+P0066,Batik Maxi Dress,Batik,Luxe Gold,36,200.12,281.48,11,17/7/2023
+P0056,Baju Kurung Elegance,Kurta,Casual Wear,90,460.54,53.53,10,18/7/2023
+P0028,Baju Melayu Kids,Baju Melayu,Casual Wear,69,318.38,157.57,5,18/7/2023
+P0036,Batik Maxi Skirt,Kurta,Casual Wear,53,396.43,136.79,13,18/7/2023
+P0054,Batik Peplum,Baju Melayu,Luxe Gold,88,397.69,112.3,19,18/7/2023
+P0043,Jubah Luxe Gold,Batik,Luxe Gold,21,489.69,233.07,4,18/7/2023
+P0095,Kurta Everyday,Batik,Luxe Gold,43,472.7,219.22,3,18/7/2023
+P0074,Modern Batik Shirt,Baju Melayu,Glam Silver,95,457.37,76.79,11,18/7/2023
+P0064,Traditional Batik Wrap,Kurta,Glam Silver,39,114.55,204.84,19,18/7/2023
+P0099,,Batik,Glam Silver,40,477.42,296.47,12,18/7/2023
+P0025,Baju Kurung Traditional,Kurta,Casual Wear,84,399.91,182.31,2,19/7/2023
+P0058,Batik Wrap Dress,Baju Melayu,Luxe Gold,89,92.09,63.42,18,19/7/2023
+P0004,Kurta Casual,Kurta,Glam Silver,98,63.88,172.4,12,19/7/2023
+P0023,Traditional Batik Sarong,Kurta,Glam Silver,44,467.14,242.91,20,19/7/2023
+P0006,Baju Kurung Pahang,Kurta,Glam Silver,11,379.72,264.32,19,21/7/2023
+P0078,Batik Sarong Dress,Baju Melayu,Glam Silver,44,339.32,240.43,7,21/7/2023
+P0019,Blouse with Ruffles,Kurta,Glam Silver,95,71.22,299.8,3,21/7/2023
+P0054,Batik Peplum,Kurta,Luxe Gold,47,223.8,227.92,7,22/7/2023
+P0014,Jubah Abaya,Batik,Luxe Gold,57,138.04,59.78,17,22/7/2023
+P0023,Traditional Batik Sarong,Kurta,Luxe Gold,72,343.68,230.68,1,22/7/2023
+P0010,Baju Melayu Classic,Kurta,Casual Wear,85,408.31,68.43,7,23/7/2023
+P0052,Batik A-Line Dress,Baju Melayu,Casual Wear,55,380.1,71.99,11,23/7/2023
+P0072,Batik Kurung,Baju Melayu,Casual Wear,27,231.97,57.21,11,23/7/2023
+P0090,Batik Scarf Wrap,Kurta,Glam Silver,77,363.24,207.96,1,23/7/2023
+P0075,Jubah Chic,Kurta,Glam Silver,52,205.27,240.97,10,23/7/2023
+P0030,Batik Pareo,Kurta,Casual Wear,46,390.36,218,16,24/7/2023
+P0057,Kurta Formal,Batik,Glam Silver,90,316.51,289.65,1,24/7/2023
+P0002,Baju Kurung Moden,Kurta,Casual Wear,28,291.67,275.34,14,25/7/2023
+P0072,Batik Kurung,Baju Melayu,Casual Wear,32,280.68,80.65,2,25/7/2023
+P0079,Jubah Pastel,Baju Melayu,Luxe Gold,54,446.57,89.29,11,25/7/2023
+P0040,Kurta Cotton,Baju Melayu,Luxe Gold,25,323.29,293.45,14,25/7/2023
+P0022,Kurta Ombre,Batik,Glam Silver,92,290.96,73.12,12,25/7/2023
+P0099,,Batik,Casual Wear,56,130.52,233.7,17,26/7/2023
+P0038,Modern Jubah,Baju Melayu,Luxe Gold,88,200.8,226.85,6,27/7/2023
+P0006,Baju Kurung Pahang,Baju Melayu,Glam Silver,14,390.35,205.37,12,28/7/2023
+P0039,Batik Scarf,Batik,Casual Wear,23,294.08,104.37,5,28/7/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Casual Wear,92,222.51,278.41,7,28/7/2023
+P0096,Batik Kaftan Luxe,Batik,Luxe Gold,26,191.58,181.82,19,29/7/2023
+P0069,Jubah for Kids,Batik,Casual Wear,45,326.45,128.05,18,29/7/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Casual Wear,11,475.58,178.09,7,30/7/2023
+P0059,Baju Melayu Moden,Kurta,Glam Silver,97,108.83,232.42,20,30/7/2023
+P0095,Kurta Everyday,Kurta,Casual Wear,79,88.48,53.7,7,30/7/2023
+P0087,Kurta Urban,Batik,Glam Silver,63,214.7,35.79,8,30/7/2023
+P0087,Kurta Urban,Batik,Luxe Gold,75,332.46,189.31,7,30/7/2023
+P0002,Baju Kurung Moden,Batik,Glam Silver,22,448.11,51.62,20,31/7/2023
+P0001,Baju Melayu Cekak Musang,Baju Melayu,Glam Silver,14,313.56,292.12,3,31/7/2023
+P0072,Batik Kurung,Batik,Glam Silver,76,210.97,89.59,8,31/7/2023
+P0005,Batik Sarong,Kurta,Casual Wear,88,245.42,79.75,20,31/7/2023
+P0058,Batik Wrap Dress,Baju Melayu,Luxe Gold,11,54.64,45.08,4,31/7/2023
+P0083,Batik A-Line Skirt,Batik,Casual Wear,42,453.92,62.89,10,2/8/2023
+P0058,Batik Wrap Dress,Batik,Casual Wear,38,53.86,57.71,19,2/8/2023
+P0055,Casual Batik Shirt,Kurta,Glam Silver,76,310.75,76.25,16,2/8/2023
+P0001,Baju Melayu Cekak Musang,Baju Melayu,Luxe Gold,48,427,170.69,2,3/8/2023
+P0090,Batik Scarf Wrap,Batik,Luxe Gold,69,176.34,77.85,6,3/8/2023
+P0070,Batik Tunic Dress,Batik,Glam Silver,32,304.79,253.15,15,3/8/2023
+P0077,Stylish Kurta,Baju Melayu,Luxe Gold,98,437.83,277.8,7,3/8/2023
+P0100,,Batik,Casual Wear,51,409.35,85.03,10,3/8/2023
+P0067,Kurta Festive,Baju Melayu,Luxe Gold,48,87.52,76.97,6,4/8/2023
+P0087,Kurta Urban,Batik,Luxe Gold,79,284.61,183.78,14,4/8/2023
+P0074,Modern Batik Shirt,Kurta,Luxe Gold,27,431.62,171.27,1,4/8/2023
+P0013,Baju Kurung Lace,Kurta,Luxe Gold,91,448.64,251.59,12,5/8/2023
+P0083,Batik A-Line Skirt,Batik,Casual Wear,55,289.04,55.15,15,5/8/2023
+P0081,Casual Baju Kurung,Baju Melayu,Casual Wear,73,376.46,191.12,12,5/8/2023
+P0075,Jubah Chic,Baju Melayu,Luxe Gold,25,283.56,138.63,14,5/8/2023
+P0082,Jubah Elegant,Batik,Glam Silver,22,492.42,67.47,16,5/8/2023
+P0069,Jubah for Kids,Kurta,Luxe Gold,10,333.18,63.98,7,5/8/2023
+P0069,Jubah for Kids,Batik,Casual Wear,66,54.9,160.69,10,5/8/2023
+P0028,Baju Melayu Kids,Baju Melayu,Casual Wear,99,453.61,149.97,12,6/8/2023
+P0013,Baju Kurung Lace,Batik,Luxe Gold,75,388.07,37.5,3,7/8/2023
+P0025,Baju Kurung Traditional,Batik,Glam Silver,68,392.08,281.53,1,7/8/2023
+P0061,Batik Flare Skirt,Kurta,Casual Wear,19,236.34,169.18,8,7/8/2023
+P0071,Kurta Traditional,Kurta,Glam Silver,49,294.04,293.59,17,7/8/2023
+P0039,Batik Scarf,Baju Melayu,Luxe Gold,13,221.31,64.75,3,8/8/2023
+P0055,Casual Batik Shirt,Batik,Glam Silver,10,250.41,276.32,8,8/8/2023
+P0024,Jubah Simple,Batik,Glam Silver,67,176.56,48.33,15,8/8/2023
+P0060,Jubah Casual,Baju Melayu,Glam Silver,27,421.96,278.5,5,9/8/2023
+P0054,Batik Peplum,Kurta,Luxe Gold,26,408,273.39,14,10/8/2023
+P0006,Baju Kurung Pahang,Baju Melayu,Glam Silver,89,402.92,105.1,18,11/8/2023
+P0081,Casual Baju Kurung,Batik,Casual Wear,48,68.96,72.34,16,11/8/2023
+P0032,Jubah with Lace,Baju Melayu,Luxe Gold,29,412.4,144.59,9,11/8/2023
+P0074,Modern Batik Shirt,Kurta,Luxe Gold,31,498.53,160.73,12,11/8/2023
+P0054,Batik Peplum,Batik,Luxe Gold,75,133.43,47.56,3,12/8/2023
+P0024,Jubah Simple,Batik,Luxe Gold,14,395.55,195.48,1,12/8/2023
+P0038,Modern Jubah,Batik,Casual Wear,39,80.92,160.24,20,12/8/2023
+P0042,Baju Melayu Festive,Batik,Casual Wear,52,227,122.21,14,13/8/2023
+P0008,Jubah Traditional,Kurta,Glam Silver,100,350.34,176.3,6,13/8/2023
+P0052,Batik A-Line Dress,Kurta,Glam Silver,42,448.35,195.93,17,14/8/2023
+P0070,Batik Tunic Dress,Baju Melayu,Glam Silver,60,138.15,261.29,1,14/8/2023
+P0071,Kurta Traditional,Batik,Casual Wear,23,177.91,137.91,7,14/8/2023
+P0087,Kurta Urban,Batik,Glam Silver,77,134.33,184.81,4,14/8/2023
+P0023,Traditional Batik Sarong,Kurta,Luxe Gold,36,190.63,103.39,5,14/8/2023
+P0094,Batik Tunic with Embroidery,Batik,Luxe Gold,16,51.16,270.01,14,15/8/2023
+P0058,Batik Wrap Dress,Kurta,Casual Wear,24,319,268.17,20,15/8/2023
+P0041,Batik Wrap Skirt,Baju Melayu,Glam Silver,46,384.29,131.23,6,15/8/2023
+P0069,Jubah for Kids,Baju Melayu,Glam Silver,23,203.25,170.54,14,15/8/2023
+P0060,Jubah Casual,Baju Melayu,Luxe Gold,72,415.97,173.81,16,16/8/2023
+P0098,Kurta Premium Cotton,Kurta,Glam Silver,55,60.52,166.47,3,16/8/2023
+P0021,Baju Melayu Luxe,Batik,Luxe Gold,49,67.12,299.25,6,17/8/2023
+P0007,Blouse Modern,Kurta,Luxe Gold,75,328.13,71.57,20,17/8/2023
+P0055,Casual Batik Shirt,Baju Melayu,Glam Silver,90,109.01,133.76,18,17/8/2023
+P0017,Kurta Slim Fit,Baju Melayu,Luxe Gold,28,269.08,69.4,16,17/8/2023
+P0069,Jubah for Kids,Batik,Luxe Gold,81,308.84,182.35,1,18/8/2023
+P0017,Kurta Slim Fit,Baju Melayu,Luxe Gold,64,338.32,264.36,4,18/8/2023
+P0094,Batik Tunic with Embroidery,Batik,Casual Wear,86,182.77,56.07,6,19/8/2023
+P0080,Batik Palazzo Pants,Kurta,Luxe Gold,22,232.67,56.55,3,20/8/2023
+P0039,Batik Scarf,Kurta,Glam Silver,59,178.1,179.16,3,20/8/2023
+P0040,Kurta Cotton,Batik,Glam Silver,60,391.96,230.48,11,20/8/2023
+P0091,Kurta with Batik Print,Batik,Luxe Gold,92,174.61,135.15,11,20/8/2023
+P0013,Baju Kurung Lace,Baju Melayu,Luxe Gold,32,477.28,189,1,21/8/2023
+P0025,Baju Kurung Traditional,Batik,Luxe Gold,81,330.14,79.03,13,21/8/2023
+P0015,Baju Melayu Teluk Belanga,Kurta,Casual Wear,59,138.38,235.82,17,21/8/2023
+P0100,,Kurta,Luxe Gold,42,305.33,72.37,4,21/8/2023
+P0013,Baju Kurung Lace,Baju Melayu,Luxe Gold,62,468.88,156.24,3,22/8/2023
+P0059,Baju Melayu Moden,Kurta,Casual Wear,19,123.39,48.72,2,22/8/2023
+P0014,Jubah Abaya,Batik,Luxe Gold,22,438.16,71.6,6,22/8/2023
+P0086,Jubah Simplicity,Baju Melayu,Glam Silver,23,237.35,288.76,2,22/8/2023
+P0048,Blouse with Batik Print,Batik,Glam Silver,43,301.43,194.13,20,24/8/2023
+P0006,Baju Kurung Pahang,Batik,Glam Silver,54,444.43,177.09,4,25/8/2023
+P0059,Baju Melayu Moden,Baju Melayu,Luxe Gold,15,229.77,219.6,3,25/8/2023
+P0009,Batik Long Skirt,Baju Melayu,Luxe Gold,19,368.53,41.98,7,25/8/2023
+P0078,Batik Sarong Dress,Kurta,Luxe Gold,53,459.51,156.22,11,25/8/2023
+P0081,Casual Baju Kurung,Batik,Casual Wear,45,266.2,176.51,16,25/8/2023
+P0014,Jubah Abaya,Batik,Casual Wear,89,163.66,262.51,6,25/8/2023
+P0081,Casual Baju Kurung,Batik,Casual Wear,59,221.75,81.52,4,26/8/2023
+P0079,Jubah Pastel,Batik,Casual Wear,27,395.99,179.09,3,26/8/2023
+P0022,Kurta Ombre,Kurta,Casual Wear,97,425.34,138.33,1,26/8/2023
+P0052,Batik A-Line Dress,Kurta,Casual Wear,15,274.88,202.04,14,27/8/2023
+P0065,Jubah Festive,Batik,Casual Wear,54,136.58,142.27,20,27/8/2023
+P0071,Kurta Traditional,Baju Melayu,Casual Wear,47,279.52,103.71,6,27/8/2023
+P0001,Baju Melayu Cekak Musang,Batik,Glam Silver,17,95.81,147.78,4,28/8/2023
+P0007,Blouse Modern,Batik,Casual Wear,39,383.08,219.04,20,28/8/2023
+P0055,Casual Batik Shirt,Kurta,Glam Silver,62,441.22,174.47,19,28/8/2023
+P0078,Batik Sarong Dress,Baju Melayu,Casual Wear,23,440.71,250.57,7,29/8/2023
+P0048,Blouse with Batik Print,Kurta,Casual Wear,64,180.72,63.04,4,29/8/2023
+P0016,Modern Batik Dress,Baju Melayu,Glam Silver,100,413.93,180.44,16,29/8/2023
+P0093,Jubah Glam,Baju Melayu,Glam Silver,89,304.59,55.42,20,30/8/2023
+P0070,Batik Tunic Dress,Batik,Glam Silver,81,58.55,147.29,17,31/8/2023
+P0100,,Kurta,Casual Wear,81,112.71,99.44,15,31/8/2023
+P0047,Baju Melayu Glam,Baju Melayu,Glam Silver,34,166.41,207.68,10,2/9/2023
+P0054,Batik Peplum,Baju Melayu,Casual Wear,13,216.62,80.62,14,2/9/2023
+P0026,Casual Kurta,Baju Melayu,Glam Silver,35,188.77,253.01,14,2/9/2023
+P0073,Elegant Batik Skirt,Baju Melayu,Casual Wear,22,169.5,60.63,3,2/9/2023
+P0095,Kurta Everyday,Kurta,Luxe Gold,58,324.5,98.48,8,2/9/2023
+P0099,,Kurta,Casual Wear,83,201.02,211.85,12,2/9/2023
+P0026,Casual Kurta,Batik,Luxe Gold,59,93.48,143.77,7,3/9/2023
+P0043,Jubah Luxe Gold,Kurta,Glam Silver,27,131.73,256.97,1,3/9/2023
+P0035,Classic Kurta,Batik,Casual Wear,78,113.26,94.52,19,4/9/2023
+P0060,Jubah Casual,Batik,Glam Silver,29,327.38,150.62,3,5/9/2023
+P0045,Kurta Linen,Baju Melayu,Luxe Gold,26,286.16,123.87,7,5/9/2023
+P0059,Baju Melayu Moden,Batik,Glam Silver,91,240.65,211.24,4,6/9/2023
+P0030,Batik Pareo,Baju Melayu,Glam Silver,45,219.76,191.39,6,6/9/2023
+P0002,Baju Kurung Moden,Kurta,Casual Wear,67,56.2,208.42,4,7/9/2023
+P0043,Jubah Luxe Gold,Kurta,Glam Silver,30,279.46,283.74,11,7/9/2023
+P0099,,Baju Melayu,Glam Silver,38,76.48,124.5,3,7/9/2023
+P0010,Baju Melayu Classic,Baju Melayu,Luxe Gold,19,323.11,217.03,16,8/9/2023
+P0007,Blouse Modern,Baju Melayu,Luxe Gold,98,144.85,127.29,20,9/9/2023
+P0079,Jubah Pastel,Batik,Casual Wear,45,151.82,44.78,17,9/9/2023
+P0057,Kurta Formal,Kurta,Casual Wear,97,451.97,74.46,16,9/9/2023
+P0088,Modern Baju Melayu,Baju Melayu,Casual Wear,84,414.04,80.21,9,9/9/2023
+P0095,Kurta Everyday,Baju Melayu,Casual Wear,10,412.58,246.96,3,10/9/2023
+P0057,Kurta Formal,Batik,Glam Silver,97,234.98,80.92,17,10/9/2023
+P0010,Baju Melayu Classic,Baju Melayu,Luxe Gold,67,385.92,206.44,4,11/9/2023
+P0085,Batik Modern Wrap,Kurta,Luxe Gold,51,339.55,105.61,5,11/9/2023
+P0016,Modern Batik Dress,Kurta,Glam Silver,92,235.31,92.61,15,11/9/2023
+P0023,Traditional Batik Sarong,Batik,Glam Silver,44,145.6,81.2,7,11/9/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Glam Silver,20,100.36,208.32,20,12/9/2023
+P0047,Baju Melayu Glam,Baju Melayu,Casual Wear,27,347.2,35.53,3,12/9/2023
+P0059,Baju Melayu Moden,Kurta,Luxe Gold,75,485.7,122.78,13,12/9/2023
+P0050,Batik Palazzo,Kurta,Glam Silver,59,191.07,56.03,3,12/9/2023
+P0011,Kurta with Embroidery,Kurta,Luxe Gold,18,144.8,86.63,7,12/9/2023
+P0013,Baju Kurung Lace,Baju Melayu,Glam Silver,68,183.72,157.31,11,13/9/2023
+P0098,Kurta Premium Cotton,Batik,Glam Silver,59,438.7,200.16,7,13/9/2023
+P0039,Batik Scarf,Baju Melayu,Glam Silver,13,100.73,213.35,11,14/9/2023
+P0076,Baju Melayu Comfort,Batik,Glam Silver,100,497.6,76.04,11,15/9/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Glam Silver,52,493.57,162.33,12,15/9/2023
+P0081,Casual Baju Kurung,Batik,Casual Wear,43,454.71,174.55,2,15/9/2023
+P0093,Jubah Glam,Batik,Glam Silver,42,211.04,77.02,18,15/9/2023
+P0010,Baju Melayu Classic,Batik,Casual Wear,100,215.46,132.05,15,16/9/2023
+P0094,Batik Tunic with Embroidery,Kurta,Glam Silver,96,499.98,67.05,10,16/9/2023
+P0094,Batik Tunic with Embroidery,Kurta,Luxe Gold,59,457.84,276.54,9,16/9/2023
+P0084,Kurta Premium,Baju Melayu,Luxe Gold,14,452.58,56.38,8,16/9/2023
+P0060,Jubah Casual,Kurta,Casual Wear,97,123.1,136.18,14,17/9/2023
+P0057,Kurta Formal,Batik,Casual Wear,96,200.55,255.21,18,17/9/2023
+P0044,Modern Batik Kaftan,Kurta,Luxe Gold,62,53.26,32.27,9,17/9/2023
+P0021,Baju Melayu Luxe,Baju Melayu,Glam Silver,71,119.33,160.2,17,18/9/2023
+P0070,Batik Tunic Dress,Batik,Luxe Gold,65,333.9,255.26,2,18/9/2023
+P0058,Batik Wrap Dress,Kurta,Luxe Gold,71,261.05,56.06,11,18/9/2023
+P0027,Premium Batik Shirt,Batik,Casual Wear,56,129.19,67.41,1,18/9/2023
+P0059,Baju Melayu Moden,Kurta,Luxe Gold,62,187.75,123.59,1,19/9/2023
+P0007,Blouse Modern,Baju Melayu,Casual Wear,22,205.87,259.37,10,19/9/2023
+P0014,Jubah Abaya,Baju Melayu,Glam Silver,89,464.13,95.1,17,19/9/2023
+P0041,Batik Wrap Skirt,Baju Melayu,Luxe Gold,92,288.43,174.58,16,20/9/2023
+P0044,Modern Batik Kaftan,Kurta,Casual Wear,49,188.19,209.16,8,20/9/2023
+P0100,,Kurta,Luxe Gold,89,244.92,165.52,9,20/9/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Luxe Gold,13,432.79,285.89,8,21/9/2023
+P0050,Batik Palazzo,Batik,Glam Silver,45,128.38,223.25,20,21/9/2023
+P0063,Modern Baju Kurung,Kurta,Luxe Gold,71,260.85,146.56,6,21/9/2023
+P0096,Batik Kaftan Luxe,Batik,Luxe Gold,10,421.48,263.36,7,22/9/2023
+P0024,Jubah Simple,Baju Melayu,Casual Wear,98,282.44,267.24,12,22/9/2023
+P0086,Jubah Simplicity,Batik,Glam Silver,44,423.83,260.7,19,22/9/2023
+P0098,Kurta Premium Cotton,Kurta,Luxe Gold,20,122.95,36.34,17,22/9/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Casual Wear,35,220.65,156.89,13,22/9/2023
+P0018,Baju Kurung Cotton,Batik,Glam Silver,43,487.44,260.94,8,23/9/2023
+P0013,Baju Kurung Lace,Baju Melayu,Casual Wear,29,211.13,130.53,11,24/9/2023
+P0028,Baju Melayu Kids,Batik,Luxe Gold,77,227.59,211.53,2,24/9/2023
+P0028,Baju Melayu Kids,Kurta,Casual Wear,11,390.52,188.2,18,24/9/2023
+P0092,Batik Formal Shirt,Baju Melayu,Glam Silver,20,289.02,260.06,18,24/9/2023
+P0094,Batik Tunic with Embroidery,Batik,Casual Wear,50,111.59,72.9,6,24/9/2023
+P0077,Stylish Kurta,Batik,Glam Silver,55,386.35,72.4,12,24/9/2023
+P0093,Jubah Glam,Kurta,Glam Silver,32,68.55,280.3,6,25/9/2023
+P0071,Kurta Traditional,Baju Melayu,Luxe Gold,60,95.33,295.27,17,25/9/2023
+P0010,Baju Melayu Classic,Batik,Luxe Gold,39,285.74,154.89,9,26/9/2023
+P0007,Blouse Modern,Baju Melayu,Glam Silver,93,147.29,134.41,14,26/9/2023
+P0038,Modern Jubah,Batik,Casual Wear,22,154.03,192.92,11,26/9/2023
+P0098,Kurta Premium Cotton,Baju Melayu,Casual Wear,34,388.91,299.22,18,27/9/2023
+P0003,Baju Melayu Slim Fit,Kurta,Glam Silver,90,265.65,210.11,1,28/9/2023
+P0083,Batik A-Line Skirt,Batik,Glam Silver,79,71.24,55.45,17,28/9/2023
+P0077,Stylish Kurta,Batik,Casual Wear,80,123.69,120.66,13,28/9/2023
+P0036,Batik Maxi Skirt,Kurta,Luxe Gold,58,361.08,243.92,20,29/9/2023
+P0081,Casual Baju Kurung,Kurta,Casual Wear,18,120,57.4,5,29/9/2023
+P0040,Kurta Cotton,Batik,Casual Wear,100,479.67,222.75,10,29/9/2023
+P0017,Kurta Slim Fit,Batik,Casual Wear,23,185.96,206.59,13,29/9/2023
+P0002,Baju Kurung Moden,Kurta,Glam Silver,13,171.02,91.85,11,30/9/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Luxe Gold,68,285.94,145.3,1,30/9/2023
+P0025,Baju Kurung Traditional,Baju Melayu,Glam Silver,62,143.85,273.35,17,1/10/2023
+P0029,Kurta for Boys,Kurta,Casual Wear,26,162.74,102.84,17,1/10/2023
+P0100,,Batik,Casual Wear,90,316.73,39.92,20,1/10/2023
+P0096,Batik Kaftan Luxe,Batik,Casual Wear,57,308.25,36.7,1,2/10/2023
+P0012,Batik Shirt,Batik,Luxe Gold,47,391.85,177.33,7,2/10/2023
+P0007,Blouse Modern,Kurta,Luxe Gold,19,157.11,281.2,2,2/10/2023
+P0024,Jubah Simple,Batik,Luxe Gold,17,108.16,279,7,2/10/2023
+P0024,Jubah Simple,Kurta,Casual Wear,86,469.54,31.32,7,2/10/2023
+P0099,,Batik,Casual Wear,70,402.27,152.48,6,2/10/2023
+P0099,,Kurta,Casual Wear,13,212.67,181.23,18,2/10/2023
+P0040,Kurta Cotton,Kurta,Casual Wear,28,430.26,197.36,14,3/10/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Casual Wear,13,386.18,54.3,5,3/10/2023
+P0009,Batik Long Skirt,Batik,Glam Silver,73,229.87,299.67,13,4/10/2023
+P0044,Modern Batik Kaftan,Kurta,Casual Wear,19,198.98,208.02,11,4/10/2023
+P0013,Baju Kurung Lace,Baju Melayu,Casual Wear,25,480.36,93.79,8,5/10/2023
+P0036,Batik Maxi Skirt,Kurta,Glam Silver,88,446.03,257.16,16,5/10/2023
+P0051,Kurta Stylish,Kurta,Glam Silver,39,471.11,233.45,1,5/10/2023
+P0033,Batik Tunic,Baju Melayu,Glam Silver,74,319.53,289.22,3,6/10/2023
+P0014,Jubah Abaya,Batik,Glam Silver,80,381.56,83.18,8,6/10/2023
+P0060,Jubah Casual,Batik,Casual Wear,88,227.02,120.47,3,6/10/2023
+P0070,Batik Tunic Dress,Batik,Casual Wear,91,465.98,137.33,3,7/10/2023
+P0079,Jubah Pastel,Batik,Casual Wear,38,252.88,74.96,6,7/10/2023
+P0062,Kurta Embossed,Baju Melayu,Casual Wear,96,372.32,168.46,9,8/10/2023
+P0045,Kurta Linen,Batik,Luxe Gold,26,325.57,123.08,12,8/10/2023
+P0084,Kurta Premium,Baju Melayu,Glam Silver,12,161.63,91.81,16,8/10/2023
+P0087,Kurta Urban,Baju Melayu,Luxe Gold,51,266.25,224.58,11,8/10/2023
+P0046,Batik Slim Fit Shirt,Baju Melayu,Luxe Gold,22,257.22,267.64,10,9/10/2023
+P0029,Kurta for Boys,Batik,Luxe Gold,94,303.37,164.25,10,9/10/2023
+P0090,Batik Scarf Wrap,Batik,Luxe Gold,100,489.35,124.01,8,10/10/2023
+P0058,Batik Wrap Dress,Batik,Casual Wear,66,350.5,214.53,15,10/10/2023
+P0029,Kurta for Boys,Baju Melayu,Casual Wear,86,363.98,131.94,16,10/10/2023
+P0026,Casual Kurta,Batik,Casual Wear,94,95.24,259.09,16,11/10/2023
+P0035,Classic Kurta,Batik,Luxe Gold,75,331.56,190.4,6,11/10/2023
+P0076,Baju Melayu Comfort,Batik,Casual Wear,49,146.26,121.83,6,12/10/2023
+P0052,Batik A-Line Dress,Baju Melayu,Casual Wear,57,491.1,66.04,9,12/10/2023
+P0065,Jubah Festive,Kurta,Luxe Gold,35,326.17,151.81,20,12/10/2023
+P0032,Jubah with Lace,Baju Melayu,Glam Silver,95,131.04,199.03,9,12/10/2023
+P0017,Kurta Slim Fit,Kurta,Casual Wear,21,381.72,241.79,10,12/10/2023
+P0042,Baju Melayu Festive,Kurta,Luxe Gold,47,193.09,155.46,13,13/10/2023
+P0002,Baju Kurung Moden,Batik,Casual Wear,90,364.43,168.83,15,14/10/2023
+P0021,Baju Melayu Luxe,Batik,Glam Silver,33,99.18,264.01,3,14/10/2023
+P0013,Baju Kurung Lace,Batik,Casual Wear,31,437.26,182.36,14,15/10/2023
+P0051,Kurta Stylish,Batik,Glam Silver,97,425.98,167.72,10,15/10/2023
+P0063,Modern Baju Kurung,Kurta,Glam Silver,93,132.7,199.88,8,15/10/2023
+P0027,Premium Batik Shirt,Kurta,Casual Wear,84,370.6,62.73,6,15/10/2023
+P0059,Baju Melayu Moden,Kurta,Casual Wear,30,70.75,247,2,16/10/2023
+P0058,Batik Wrap Dress,Batik,Luxe Gold,27,378.87,252.25,19,17/10/2023
+P0073,Elegant Batik Skirt,Batik,Glam Silver,38,285.59,157.6,13,17/10/2023
+P0032,Jubah with Lace,Baju Melayu,Casual Wear,35,129.23,52.48,16,18/10/2023
+P0041,Batik Wrap Skirt,Kurta,Casual Wear,69,483.87,216.17,1,19/10/2023
+P0071,Kurta Traditional,Baju Melayu,Casual Wear,60,396.47,215.68,9,19/10/2023
+P0034,Baju Kurung Satin,Kurta,Luxe Gold,60,447.36,269.08,8,20/10/2023
+P0001,Baju Melayu Cekak Musang,Kurta,Casual Wear,57,147.7,79.8,3,21/10/2023
+P0012,Batik Shirt,Kurta,Casual Wear,22,167.74,97.07,20,21/10/2023
+P0057,Kurta Formal,Baju Melayu,Luxe Gold,36,252.59,64.08,14,21/10/2023
+P0056,Baju Kurung Elegance,Baju Melayu,Casual Wear,41,228.64,225.13,3,22/10/2023
+P0042,Baju Melayu Festive,Kurta,Luxe Gold,14,306.18,289.62,6,22/10/2023
+P0010,Baju Melayu Classic,Batik,Luxe Gold,82,94.06,207.07,14,23/10/2023
+P0059,Baju Melayu Moden,Baju Melayu,Glam Silver,45,271.85,219.24,13,23/10/2023
+P0036,Batik Maxi Skirt,Batik,Glam Silver,84,54.29,208.88,7,23/10/2023
+P0039,Batik Scarf,Baju Melayu,Glam Silver,82,71.35,63.6,2,23/10/2023
+P0026,Casual Kurta,Kurta,Glam Silver,50,161.03,166.4,15,23/10/2023
+P0067,Kurta Festive,Kurta,Glam Silver,74,257.63,287.7,11,23/10/2023
+P0042,Baju Melayu Festive,Kurta,Glam Silver,10,173.87,137.03,14,24/10/2023
+P0066,Batik Maxi Dress,Batik,Casual Wear,100,481.14,97.97,13,24/10/2023
+P0035,Classic Kurta,Baju Melayu,Glam Silver,94,414.84,117.05,7,24/10/2023
+P0032,Jubah with Lace,Batik,Casual Wear,33,489.74,108.09,5,24/10/2023
+P0088,Modern Baju Melayu,Batik,Casual Wear,94,190.13,127.81,15,24/10/2023
+P0029,Kurta for Boys,Batik,Glam Silver,52,366.11,238.04,1,25/10/2023
+P0051,Kurta Stylish,Batik,Luxe Gold,36,455.68,59.31,8,25/10/2023
+P0099,,Baju Melayu,Glam Silver,94,462.64,293.28,12,25/10/2023
+P0049,Jubah Plain,Baju Melayu,Luxe Gold,15,189.07,41.7,10,26/10/2023
+P0004,Kurta Casual,Baju Melayu,Luxe Gold,16,270.83,92.2,14,26/10/2023
+P0062,Kurta Embossed,Baju Melayu,Glam Silver,56,380.91,32.41,9,26/10/2023
+P0038,Modern Jubah,Kurta,Casual Wear,100,410.05,214.87,19,26/10/2023
+P0066,Batik Maxi Dress,Baju Melayu,Glam Silver,13,51.51,230.05,12,27/10/2023
+P0080,Batik Palazzo Pants,Baju Melayu,Glam Silver,20,184.14,43.85,19,27/10/2023
+P0035,Classic Kurta,Kurta,Glam Silver,35,365.75,39.27,5,27/10/2023
+P0082,Jubah Elegant,Baju Melayu,Casual Wear,75,132.44,209.99,6,27/10/2023
+P0011,Kurta with Embroidery,Batik,Casual Wear,51,477.49,292.7,19,28/10/2023
+P0025,Baju Kurung Traditional,Batik,Casual Wear,65,316.72,293.14,17,29/10/2023
+P0005,Batik Sarong,Kurta,Casual Wear,14,232.45,119.05,2,29/10/2023
+P0005,Batik Sarong,Baju Melayu,Luxe Gold,13,172.44,165.94,19,29/10/2023
+P0081,Casual Baju Kurung,Batik,Glam Silver,44,378.13,50.27,10,29/10/2023
+P0087,Kurta Urban,Kurta,Glam Silver,20,485.52,142.02,3,29/10/2023
+P0016,Modern Batik Dress,Batik,Glam Silver,83,438.49,121.04,14,29/10/2023
+P0064,Traditional Batik Wrap,Kurta,Glam Silver,95,229.89,175.49,7,29/10/2023
+P0078,Batik Sarong Dress,Batik,Casual Wear,34,176.93,275.46,16,30/10/2023
+P0041,Batik Wrap Skirt,Batik,Casual Wear,43,463,158.18,3,30/10/2023
+P0067,Kurta Festive,Batik,Glam Silver,14,328.66,222.91,19,30/10/2023
+P0084,Kurta Premium,Batik,Casual Wear,69,334.81,67.02,12,30/10/2023
+P0047,Baju Melayu Glam,Baju Melayu,Glam Silver,40,224.39,186.95,20,31/10/2023
+P0057,Kurta Formal,Baju Melayu,Luxe Gold,89,219.82,199.11,2,31/10/2023
+P0053,Baju Melayu Classic Fit,Kurta,Glam Silver,78,244.89,30.49,5,1/11/2023
+P0033,Batik Tunic,Kurta,Glam Silver,25,269.2,129.19,20,1/11/2023
+P0018,Baju Kurung Cotton,Batik,Casual Wear,14,136.7,59.49,13,2/11/2023
+P0078,Batik Sarong Dress,Batik,Glam Silver,75,475.71,110.78,5,2/11/2023
+P0073,Elegant Batik Skirt,Batik,Glam Silver,66,277.6,62.25,10,2/11/2023
+P0082,Jubah Elegant,Kurta,Luxe Gold,52,334.04,83.64,11,2/11/2023
+P0011,Kurta with Embroidery,Kurta,Luxe Gold,77,62.02,96.78,1,2/11/2023
+P0013,Baju Kurung Lace,Kurta,Luxe Gold,52,275.45,270.49,16,4/11/2023
+P0072,Batik Kurung,Batik,Glam Silver,48,467.17,293.27,6,4/11/2023
+P0097,Traditional Batik Dress,Batik,Casual Wear,31,402.58,237.46,17,4/11/2023
+P0050,Batik Palazzo,Kurta,Glam Silver,96,428.19,195.74,17,5/11/2023
+P0064,Traditional Batik Wrap,Batik,Glam Silver,78,78.08,178.43,11,5/11/2023
+P0006,Baju Kurung Pahang,Kurta,Casual Wear,66,247.91,212.96,4,6/11/2023
+P0047,Baju Melayu Glam,Kurta,Casual Wear,94,100.84,239.29,13,6/11/2023
+P0058,Batik Wrap Dress,Baju Melayu,Glam Silver,51,284.4,202.32,1,6/11/2023
+P0074,Modern Batik Shirt,Batik,Casual Wear,74,402.66,206.66,15,6/11/2023
+P0023,Traditional Batik Sarong,Kurta,Luxe Gold,58,213.57,168.99,16,6/11/2023
+P0003,Baju Melayu Slim Fit,Kurta,Glam Silver,47,139.95,49.43,4,8/11/2023
+P0055,Casual Batik Shirt,Batik,Casual Wear,64,424.66,114.66,11,8/11/2023
+P0004,Kurta Casual,Kurta,Casual Wear,11,432.08,237.66,11,8/11/2023
+P0028,Baju Melayu Kids,Kurta,Casual Wear,78,362.59,166.76,16,9/11/2023
+P0012,Batik Shirt,Kurta,Glam Silver,50,159.75,129.18,19,9/11/2023
+P0065,Jubah Festive,Kurta,Glam Silver,66,458.84,246.8,2,9/11/2023
+P0069,Jubah for Kids,Kurta,Glam Silver,48,127.03,74.82,15,9/11/2023
+P0002,Baju Kurung Moden,Batik,Luxe Gold,10,79.82,87.32,4,10/11/2023
+P0097,Traditional Batik Dress,Batik,Casual Wear,51,401.74,104.36,15,10/11/2023
+P0047,Baju Melayu Glam,Batik,Casual Wear,46,131.88,209.6,9,11/11/2023
+P0072,Batik Kurung,Baju Melayu,Luxe Gold,27,350.69,39.29,17,11/11/2023
+P0085,Batik Modern Wrap,Baju Melayu,Luxe Gold,89,428.82,155.96,4,11/11/2023
+P0041,Batik Wrap Skirt,Baju Melayu,Casual Wear,97,87.86,227.77,8,11/11/2023
+P0093,Jubah Glam,Batik,Casual Wear,42,77.43,195.08,18,11/11/2023
+P0079,Jubah Pastel,Baju Melayu,Casual Wear,31,435.12,139.78,1,11/11/2023
+P0089,Traditional Jubah,Kurta,Luxe Gold,85,431.45,34.96,13,11/11/2023
+P0059,Baju Melayu Moden,Baju Melayu,Casual Wear,38,319.9,67.94,7,12/11/2023
+P0094,Batik Tunic with Embroidery,Baju Melayu,Luxe Gold,77,269.06,33.94,6,12/11/2023
+P0048,Blouse with Batik Print,Baju Melayu,Casual Wear,91,60.75,101.82,6,12/11/2023
+P0055,Casual Batik Shirt,Batik,Glam Silver,65,78.46,89.9,1,12/11/2023
+P0064,Traditional Batik Wrap,Baju Melayu,Luxe Gold,90,70.38,85.35,19,12/11/2023
+P0056,Baju Kurung Elegance,Batik,Glam Silver,14,225.99,101.77,9,13/11/2023
+P0076,Baju Melayu Comfort,Batik,Luxe Gold,95,294.51,280.65,6,13/11/2023
+P0098,Kurta Premium Cotton,Batik,Glam Silver,85,204.41,84.13,8,13/11/2023
+P0012,Batik Shirt,Batik,Glam Silver,18,422.25,109.82,6,14/11/2023
+P0075,Jubah Chic,Baju Melayu,Luxe Gold,10,273.43,102.54,7,14/11/2023
+P0052,Batik A-Line Dress,Batik,Glam Silver,18,138.35,102.73,13,15/11/2023
+P0054,Batik Peplum,Batik,Glam Silver,72,245.06,264.14,2,15/11/2023
+P0045,Kurta Linen,Baju Melayu,Glam Silver,99,76.01,146.08,17,15/11/2023
+P0056,Baju Kurung Elegance,Baju Melayu,Glam Silver,66,65.97,55.12,14,16/11/2023
+P0055,Casual Batik Shirt,Batik,Casual Wear,91,52.72,281.07,16,16/11/2023
+P0021,Baju Melayu Luxe,Batik,Casual Wear,56,148.69,166.9,4,17/11/2023
+P0078,Batik Sarong Dress,Kurta,Luxe Gold,84,63.01,155.95,18,17/11/2023
+P0031,Blouse for Sisters,Kurta,Luxe Gold,99,300.87,78.11,9,17/11/2023
+P0074,Modern Batik Shirt,Kurta,Luxe Gold,37,348.8,265.46,5,17/11/2023
+P0100,,Baju Melayu,Casual Wear,33,166.42,166.67,17,17/11/2023
+P0028,Baju Melayu Kids,Baju Melayu,Glam Silver,100,216.77,244.59,7,18/11/2023
+P0009,Batik Long Skirt,Baju Melayu,Luxe Gold,27,458.75,102.34,4,18/11/2023
+P0040,Kurta Cotton,Baju Melayu,Casual Wear,39,497.66,212.49,4,18/11/2023
+P0025,Baju Kurung Traditional,Baju Melayu,Casual Wear,59,258.85,248.55,16,20/11/2023
+P0060,Jubah Casual,Baju Melayu,Glam Silver,62,470.4,56.23,18,20/11/2023
+P0006,Baju Kurung Pahang,Baju Melayu,Luxe Gold,50,481.11,202.56,17,21/11/2023
+P0042,Baju Melayu Festive,Batik,Glam Silver,65,271.71,127.13,5,21/11/2023
+P0041,Batik Wrap Skirt,Baju Melayu,Glam Silver,64,421.46,141.2,19,21/11/2023
+P0019,Blouse with Ruffles,Baju Melayu,Luxe Gold,98,474.89,172.94,13,21/11/2023
+P0004,Kurta Casual,Kurta,Casual Wear,13,366.14,228.41,6,21/11/2023
+P0029,Kurta for Boys,Batik,Casual Wear,75,137.3,165.62,15,21/11/2023
+P0025,Baju Kurung Traditional,Kurta,Luxe Gold,48,401,127.66,16,22/11/2023
+P0058,Batik Wrap Dress,Batik,Glam Silver,31,68.01,138.13,10,22/11/2023
+P0065,Jubah Festive,Baju Melayu,Luxe Gold,60,196.32,80.02,1,22/11/2023
+P0099,,Batik,Luxe Gold,66,201.25,126.34,8,22/11/2023
+P0001,Baju Melayu Cekak Musang,Kurta,Luxe Gold,66,284.2,201.86,6,23/11/2023
+P0053,Baju Melayu Classic Fit,Baju Melayu,Casual Wear,17,428.79,289.22,5,23/11/2023
+P0084,Kurta Premium,Baju Melayu,Luxe Gold,98,97.43,171.28,12,23/11/2023
+P0016,Modern Batik Dress,Baju Melayu,Casual Wear,10,462.18,256.9,1,23/11/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Casual Wear,64,188.8,40.56,6,25/11/2023
+P0083,Batik A-Line Skirt,Batik,Luxe Gold,29,292.29,76.72,6,25/11/2023
+P0089,Traditional Jubah,Baju Melayu,Casual Wear,72,390.24,98.95,5,25/11/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Casual Wear,35,255.82,201.45,14,26/11/2023
+P0020,Batik Kaftan,Kurta,Glam Silver,48,208.77,98.21,13,26/11/2023
+P0066,Batik Maxi Dress,Kurta,Glam Silver,15,193.58,234.27,8,26/11/2023
+P0033,Batik Tunic,Batik,Luxe Gold,89,107.92,276.71,13,26/11/2023
+P0014,Jubah Abaya,Kurta,Casual Wear,39,123.76,115.77,16,26/11/2023
+P0063,Modern Baju Kurung,Baju Melayu,Casual Wear,96,448.75,152.57,9,26/11/2023
+P0082,Jubah Elegant,Baju Melayu,Glam Silver,92,53.43,273.79,2,27/11/2023
+P0086,Jubah Simplicity,Kurta,Glam Silver,70,145.69,177.63,12,27/11/2023
+P0071,Kurta Traditional,Kurta,Glam Silver,51,348.06,176.03,12,27/11/2023
+P0052,Batik A-Line Dress,Batik,Glam Silver,67,319.07,154.31,10,28/11/2023
+P0008,Jubah Traditional,Baju Melayu,Casual Wear,60,268.91,77.3,10,28/11/2023
+P0089,Traditional Jubah,Batik,Casual Wear,33,416.66,240.41,2,28/11/2023
+P0037,Baju Melayu Elegant,Batik,Casual Wear,10,393.74,248.1,13,29/11/2023
+P0030,Batik Pareo,Baju Melayu,Glam Silver,73,322.88,70.8,7,29/11/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Glam Silver,86,440.62,65.62,10,30/11/2023
+P0061,Batik Flare Skirt,Baju Melayu,Casual Wear,58,195.67,196.82,16,1/12/2023
+P0094,Batik Tunic with Embroidery,Kurta,Luxe Gold,79,431.02,284.52,17,1/12/2023
+P0022,Kurta Ombre,Batik,Glam Silver,50,355.74,246.82,9,1/12/2023
+P0057,Kurta Formal,Batik,Luxe Gold,40,166.52,257.42,2,2/12/2023
+P0063,Modern Baju Kurung,Batik,Casual Wear,24,373.58,204.39,8,2/12/2023
+P0069,Jubah for Kids,Kurta,Luxe Gold,50,128.77,237.43,7,3/12/2023
+P0027,Premium Batik Shirt,Baju Melayu,Casual Wear,83,161.57,205.56,8,3/12/2023
+P0034,Baju Kurung Satin,Baju Melayu,Luxe Gold,60,413.61,121.16,3,4/12/2023
+P0058,Batik Wrap Dress,Baju Melayu,Casual Wear,74,258.61,262.58,5,4/12/2023
+P0055,Casual Batik Shirt,Batik,Glam Silver,31,473.53,67.78,7,4/12/2023
+P0084,Kurta Premium,Kurta,Luxe Gold,100,67.15,184.76,18,4/12/2023
+P0076,Baju Melayu Comfort,Baju Melayu,Luxe Gold,33,443.02,194.24,19,5/12/2023
+P0083,Batik A-Line Skirt,Kurta,Luxe Gold,100,370.53,205.67,19,5/12/2023
+P0083,Batik A-Line Skirt,Baju Melayu,Glam Silver,68,393.34,266.93,10,6/12/2023
+P0070,Batik Tunic Dress,Batik,Glam Silver,13,337,224.06,5,6/12/2023
+P0079,Jubah Pastel,Batik,Casual Wear,10,122.82,261.87,20,6/12/2023
+P0012,Batik Shirt,Baju Melayu,Casual Wear,62,289.51,197.59,2,7/12/2023
+P0096,Batik Kaftan Luxe,Baju Melayu,Luxe Gold,81,451.16,139.96,18,8/12/2023
+P0058,Batik Wrap Dress,Baju Melayu,Glam Silver,39,214.7,61.11,1,8/12/2023
+P0062,Kurta Embossed,Baju Melayu,Luxe Gold,85,118,44.81,3,8/12/2023
+P0001,Baju Melayu Cekak Musang,Kurta,Glam Silver,79,253.14,197.95,11,9/12/2023
+P0080,Batik Palazzo Pants,Batik,Luxe Gold,55,266.43,108.87,4,9/12/2023
+P0041,Batik Wrap Skirt,Batik,Luxe Gold,100,245,205.57,9,9/12/2023
+P0032,Jubah with Lace,Kurta,Glam Silver,26,271.05,277.35,11,9/12/2023
+P0011,Kurta with Embroidery,Batik,Glam Silver,100,249.05,289.88,14,9/12/2023
+P0037,Baju Melayu Elegant,Baju Melayu,Casual Wear,70,211.99,275.03,3,10/12/2023
+P0100,,Kurta,Luxe Gold,89,222.12,282.38,11,10/12/2023
+P0066,Batik Maxi Dress,Batik,Glam Silver,40,187.48,96.49,15,11/12/2023
+P0036,Batik Maxi Skirt,Batik,Casual Wear,76,223.43,152.84,14,11/12/2023
+P0060,Jubah Casual,Batik,Casual Wear,49,259.83,176.01,11,11/12/2023
+P0071,Kurta Traditional,Batik,Glam Silver,38,290.27,247.7,9,11/12/2023
+P0089,Traditional Jubah,Baju Melayu,Glam Silver,12,74.46,144.36,19,11/12/2023
+P0036,Batik Maxi Skirt,Baju Melayu,Casual Wear,65,211.28,87.13,1,12/12/2023
+P0090,Batik Scarf Wrap,Batik,Glam Silver,34,163.86,170.13,5,12/12/2023
+P0047,Baju Melayu Glam,Baju Melayu,Glam Silver,58,363.72,111.71,16,13/12/2023
+P0075,Jubah Chic,Kurta,Casual Wear,60,123.07,185.05,8,13/12/2023
+P0011,Kurta with Embroidery,Batik,Luxe Gold,68,313.85,201.62,5,13/12/2023
+P0061,Batik Flare Skirt,Batik,Casual Wear,93,393.29,275.47,9,14/12/2023
+P0081,Casual Baju Kurung,Baju Melayu,Glam Silver,42,346.65,66.18,12,14/12/2023
+P0057,Kurta Formal,Baju Melayu,Luxe Gold,83,429.27,181.63,20,14/12/2023
+P0047,Baju Melayu Glam,Baju Melayu,Casual Wear,68,334.66,198.46,6,15/12/2023
+P0039,Batik Scarf,Kurta,Glam Silver,16,248.72,102.43,13,15/12/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Glam Silver,36,410.5,281.25,9,16/12/2023
+P0020,Batik Kaftan,Batik,Glam Silver,59,255.22,275.7,6,16/12/2023
+P0039,Batik Scarf,Batik,Luxe Gold,99,495.85,106.87,1,16/12/2023
+P0039,Batik Scarf,Kurta,Glam Silver,50,212.37,199.3,11,16/12/2023
+P0082,Jubah Elegant,Baju Melayu,Luxe Gold,57,258.48,85.19,19,17/12/2023
+P0045,Kurta Linen,Kurta,Casual Wear,57,247.09,185.84,14,17/12/2023
+P0016,Modern Batik Dress,Baju Melayu,Luxe Gold,54,375.47,213.65,7,17/12/2023
+P0028,Baju Melayu Kids,Kurta,Casual Wear,76,271.29,138.64,18,18/12/2023
+P0047,Baju Melayu Glam,Baju Melayu,Luxe Gold,98,123.84,216.96,1,19/12/2023
+P0075,Jubah Chic,Batik,Luxe Gold,49,177.08,95.85,4,19/12/2023
+P0097,Traditional Batik Dress,Kurta,Luxe Gold,56,232.58,217.54,5,19/12/2023
+P0089,Traditional Jubah,Batik,Glam Silver,36,300.02,123.72,19,19/12/2023
+P0083,Batik A-Line Skirt,Kurta,Casual Wear,43,330.1,219.29,15,20/12/2023
+P0058,Batik Wrap Dress,Batik,Luxe Gold,33,147,97.9,5,20/12/2023
+P0007,Blouse Modern,Kurta,Casual Wear,18,327,157.47,13,20/12/2023
+P0018,Baju Kurung Cotton,Baju Melayu,Casual Wear,35,113.73,170.56,6,21/12/2023
+P0047,Baju Melayu Glam,Baju Melayu,Glam Silver,22,57.43,35.62,11,21/12/2023
+P0068,Baju Melayu Luxe Silver,Kurta,Glam Silver,74,102.91,82.23,17,21/12/2023
+P0075,Jubah Chic,Kurta,Glam Silver,13,444.7,98.14,14,21/12/2023
+P0062,Kurta Embossed,Batik,Luxe Gold,61,401.91,260.55,8,21/12/2023
+P0074,Modern Batik Shirt,Batik,Luxe Gold,10,237.45,30.78,11,21/12/2023
+P0038,Modern Jubah,Baju Melayu,Glam Silver,99,236.85,289.88,16,21/12/2023
+P0077,Stylish Kurta,Baju Melayu,Casual Wear,96,138.59,271.88,4,21/12/2023
+P0069,Jubah for Kids,Batik,Casual Wear,90,389.69,123.25,11,22/12/2023
+P0054,Batik Peplum,Baju Melayu,Casual Wear,94,288.68,227.86,13,23/12/2023
+P0086,Jubah Simplicity,Kurta,Glam Silver,70,230.72,217.03,12,23/12/2023
+P0008,Jubah Traditional,Kurta,Glam Silver,89,111.55,130.28,1,23/12/2023
+P0044,Modern Batik Kaftan,Baju Melayu,Luxe Gold,76,106.27,174.22,4,23/12/2023
+P0093,Jubah Glam,Baju Melayu,Casual Wear,37,203.86,162.42,9,24/12/2023
+P0040,Kurta Cotton,Batik,Glam Silver,31,89.25,82.52,14,24/12/2023
+P0089,Traditional Jubah,Batik,Luxe Gold,18,179.72,255.77,5,24/12/2023
+P0091,Kurta with Batik Print,Batik,Luxe Gold,92,144.15,78.57,14,25/12/2023
+P0028,Baju Melayu Kids,Kurta,Casual Wear,95,495.6,229.51,4,26/12/2023
+P0020,Batik Kaftan,Baju Melayu,Luxe Gold,13,262.65,236.48,7,26/12/2023
+P0058,Batik Wrap Dress,Baju Melayu,Glam Silver,36,401.91,188.45,8,26/12/2023
+P0014,Jubah Abaya,Batik,Luxe Gold,58,54.3,129.12,15,26/12/2023
+P0071,Kurta Traditional,Kurta,Luxe Gold,48,254.33,168.8,13,26/12/2023
+P0078,Batik Sarong Dress,Batik,Glam Silver,72,108.96,177.19,20,28/12/2023
+P0027,Premium Batik Shirt,Kurta,Luxe Gold,98,257.89,152.27,11,28/12/2023
+P0046,Batik Slim Fit Shirt,Baju Melayu,Luxe Gold,12,275.38,163.02,10,29/12/2023
+P0022,Kurta Ombre,Kurta,Casual Wear,89,193.81,212.87,14,29/12/2023
+P0097,Traditional Batik Dress,Batik,Luxe Gold,69,91.37,60.2,10,29/12/2023
+P0015,Baju Melayu Teluk Belanga,Batik,Glam Silver,69,464.67,269.75,13,30/12/2023
+P0086,Jubah Simplicity,Baju Melayu,Casual Wear,55,309.1,181.6,19,30/12/2023
+P0100,,Baju Melayu,Casual Wear,81,128.48,274.36,4,30/12/2023
+P0068,Baju Melayu Luxe Silver,Baju Melayu,Casual Wear,62,416.45,160,12,31/12/2023
